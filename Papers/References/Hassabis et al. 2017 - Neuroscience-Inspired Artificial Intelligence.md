@@ -2,6 +2,7 @@
 zoteroTags:
   - notion
 year: 2017
+month: 7
 date: 07/2017
 authors:
   - "Hassabis, Demis"

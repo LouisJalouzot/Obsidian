@@ -2,9 +2,9 @@
 zoteroTags:
   - notion
 year: 2023
-date: 2023-06-19
 month: 6
 day: 19
+date: 2023-06-19
 authors:
   - "ALMofleh, Anwar"
   - "Alseddiqi, Mohamed"

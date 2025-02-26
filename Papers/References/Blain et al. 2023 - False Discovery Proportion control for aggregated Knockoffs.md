@@ -4,6 +4,7 @@ zoteroTags:
   - Methodology (stat.ME)
   - notion
 year: 2023
+month: 12
 date: 2023-12
 authors:
   - "Blain, Alexandre"

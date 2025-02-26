@@ -2,6 +2,7 @@
 zoteroTags:
   - notion
 year: 2025
+month: 1
 date: 01/2025
 authors:
   - "Debray, Samuel"

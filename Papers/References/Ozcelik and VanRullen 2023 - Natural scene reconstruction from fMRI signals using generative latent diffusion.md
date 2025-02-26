@@ -2,9 +2,9 @@
 zoteroTags:
   - notion
 year: 2023
-date: 2023-09-20
 month: 9
 day: 20
+date: 2023-09-20
 authors:
   - "Ozcelik, Furkan"
   - "VanRullen, Rufin"

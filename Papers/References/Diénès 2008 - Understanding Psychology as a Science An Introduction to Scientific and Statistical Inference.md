@@ -2,6 +2,8 @@
 zoteroTags:
   - notion
 year: 2008
+month: 2
+day: 15
 date: 15 February 2008
 authors:
   - "Diénès, Z."

@@ -2,9 +2,9 @@
 zoteroTags:
   - notion
 year: 2023
-date: 2023-01-21
 month: 1
 day: 21
+date: 2023-01-21
 authors:
   - "Willett, Francis R."
   - "Kunz, Erin M."

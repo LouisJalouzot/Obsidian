@@ -3,9 +3,9 @@ zoteroTags:
   - Computer Science - Computation and Language
   - notion
 year: 2024
-date: 2024-02-18
 month: 2
 day: 18
+date: 2024-02-18
 authors:
   - "Jalouzot, Louis"
   - "Sobczyk, Robin"

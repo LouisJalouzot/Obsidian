@@ -2,6 +2,7 @@
 zoteroTags:
   - notion
 year: 2021
+month: 10
 date: 10/2021
 authors:
   - "Müller, Christian"

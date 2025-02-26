@@ -2,9 +2,9 @@
 zoteroTags:
   - notion
 year: 2024
-date: 2024-03-27
 month: 3
 day: 27
+date: 2024-03-27
 authors:
   - "Roussel, Philémon"
   - "Bocquelet, Florent"

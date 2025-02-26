@@ -2,6 +2,7 @@
 zoteroTags:
   - notion
 year: 2019
+month: 11
 date: 11/2019
 authors:
   - "Artetxe, Mikel"

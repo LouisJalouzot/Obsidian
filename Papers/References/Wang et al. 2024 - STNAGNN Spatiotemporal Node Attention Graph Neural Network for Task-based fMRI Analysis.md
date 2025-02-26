@@ -2,6 +2,8 @@
 zoteroTags:
   - notion
 year: 2024
+month: 6
+day: 17
 date: 17 June 2024
 authors:
   - "Wang, Jiyao"

@@ -2,6 +2,8 @@
 zoteroTags:
   - notion
 year: 2024
+month: 10
+day: 23
 date: 23 October 2024
 authors:
   - "Smolensky, P."

@@ -1,5 +1,7 @@
 ---
 year: 2025
+month: 1
+day: 28
 date: 28 January 2025
 authors:
   - "Futrell, Richard"

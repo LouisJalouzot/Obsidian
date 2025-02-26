@@ -3,9 +3,9 @@ zoteroTags:
   - Human behaviour
   - notion
 year: 2024
-date: 2024-02-08
 month: 2
 day: 8
+date: 2024-02-08
 authors:
   - "Shoham, Adva"
   - "Grosbard, Idan Daniel"

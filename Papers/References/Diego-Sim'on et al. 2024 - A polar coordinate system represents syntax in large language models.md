@@ -2,6 +2,8 @@
 zoteroTags:
   - notion
 year: 2024
+month: 12
+day: 7
 date: 7 December 2024
 authors:
   - "Diego-Sim'on, Pablo"

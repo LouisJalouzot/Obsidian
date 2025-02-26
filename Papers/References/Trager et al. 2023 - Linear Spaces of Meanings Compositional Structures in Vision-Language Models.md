@@ -2,9 +2,9 @@
 zoteroTags:
   - notion
 year: 2023
-date: 2023-10-1
 month: 10
 day: 1
+date: 2023-10-1
 authors:
   - "Trager, Matthew"
   - "Perera, Pramuditha"

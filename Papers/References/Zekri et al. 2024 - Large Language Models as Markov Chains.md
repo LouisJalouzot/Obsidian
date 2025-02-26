@@ -2,6 +2,8 @@
 zoteroTags:
   - notion
 year: 2024
+month: 10
+day: 3
 date: 3 October 2024
 authors:
   - "Zekri, Oussama"

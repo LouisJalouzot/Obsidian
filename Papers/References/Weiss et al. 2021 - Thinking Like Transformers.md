@@ -2,6 +2,8 @@
 zoteroTags:
   - notion
 year: 2021
+month: 6
+day: 13
 date: 13 June 2021
 authors:
   - "Weiss, Gail"

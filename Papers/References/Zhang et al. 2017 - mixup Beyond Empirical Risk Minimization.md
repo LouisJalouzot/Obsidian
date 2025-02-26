@@ -2,6 +2,8 @@
 zoteroTags:
   - notion
 year: 2017
+month: 10
+day: 25
 date: 25 October 2017
 authors:
   - "Zhang, Hongyi"

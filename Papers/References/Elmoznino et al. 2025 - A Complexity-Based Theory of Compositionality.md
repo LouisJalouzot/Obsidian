@@ -4,9 +4,9 @@ zoteroTags:
   - Computer Science - Computation and Language
   - Computer Science - Machine Learning
 year: 2025
-date: 2025-02-05
 month: 2
 day: 5
+date: 2025-02-05
 authors:
   - "Elmoznino, Eric"
   - "Jiralerspong, Thomas"

@@ -2,6 +2,8 @@
 zoteroTags:
   - notion
 year: 1995
+month: 7
+day: 1
 date: 1 July 1995
 authors:
   - "Hofstadter, D."

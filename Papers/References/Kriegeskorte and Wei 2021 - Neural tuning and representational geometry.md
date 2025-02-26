@@ -4,6 +4,7 @@ zoteroTags:
   - Neural decoding
   - Neural encoding
 year: 2021
+month: 11
 date: 2021-11
 authors:
   - "Kriegeskorte, Nikolaus"

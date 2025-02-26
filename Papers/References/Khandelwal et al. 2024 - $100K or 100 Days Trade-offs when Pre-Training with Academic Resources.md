@@ -2,6 +2,8 @@
 zoteroTags:
   - notion
 year: 2024
+month: 10
+day: 30
 date: 30 October 2024
 authors:
   - "Khandelwal, Apoorv"

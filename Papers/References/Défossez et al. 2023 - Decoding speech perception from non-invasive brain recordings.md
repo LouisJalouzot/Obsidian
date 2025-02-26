@@ -2,9 +2,9 @@
 zoteroTags:
   - notion
 year: 2023
-date: 2023-10-05
 month: 10
 day: 5
+date: 2023-10-05
 authors:
   - "Défossez, Alexandre"
   - "Caucheteux, Charlotte"

@@ -2,9 +2,9 @@
 zoteroTags:
   - notion
 year: 2024
-date: 2024-08-08
 month: 8
 day: 8
+date: 2024-08-08
 authors:
   - "Tuckute, Greta"
   - "Kanwisher, Nancy"

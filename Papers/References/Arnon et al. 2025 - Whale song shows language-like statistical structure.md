@@ -2,9 +2,9 @@
 zoteroTags:
   - notion
 year: 2025
-date: 2025-02-07
 month: 2
 day: 7
+date: 2025-02-07
 authors:
   - "Arnon, Inbal"
   - "Kirby, Simon"

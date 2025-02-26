@@ -2,6 +2,7 @@
 zoteroTags:
   - notion
 year: 2021
+month: 12
 date: 12/2021
 authors:
   - "Bazeille, Thomas"

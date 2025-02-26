@@ -2,6 +2,7 @@
 zoteroTags:
   - notion
 year: 2022
+month: 4
 date: 04/2022
 authors:
   - "Jabakhanji, Rami"

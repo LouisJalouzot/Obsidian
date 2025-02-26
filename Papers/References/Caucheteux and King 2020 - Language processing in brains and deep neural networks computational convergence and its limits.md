@@ -2,9 +2,9 @@
 zoteroTags:
   - notion
 year: 2020
-date: 2020-07-04
 month: 7
 day: 4
+date: 2020-07-04
 authors:
   - "Caucheteux, Charlotte"
   - "King, Jean-Remi"

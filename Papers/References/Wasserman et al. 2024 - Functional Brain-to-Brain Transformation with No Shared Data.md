@@ -2,6 +2,8 @@
 zoteroTags:
   - notion
 year: 2024
+month: 4
+day: 17
 date: 17 April 2024
 authors:
   - "Wasserman, Navve"

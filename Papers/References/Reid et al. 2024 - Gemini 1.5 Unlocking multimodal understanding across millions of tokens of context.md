@@ -1,5 +1,7 @@
 ---
 year: 2024
+month: 3
+day: 8
 date: 8 March 2024
 authors:
   - "Reid, Machel"

@@ -3,9 +3,9 @@ zoteroTags:
   - Computer Science - Computation and Language
   - notion
 year: 2021
-date: 2021-09-15
 month: 9
 day: 15
+date: 2021-09-15
 authors:
   - "Ravfogel, Shauli"
   - "Prasad, Grusha"

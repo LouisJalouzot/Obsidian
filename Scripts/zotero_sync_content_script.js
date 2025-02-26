@@ -64,34 +64,163 @@ delete data.tags;
 
 // Add date and year to frontmatter
 if (data.date) {
+  const originalDateStr = data.date.trim();
   let dateObj = new Date(data.date);
-  if (isNaN(dateObj.getTime())) {
-	// Attempt to parse dates like MM/YYYY
-	const parts = data.date.split(/[-/]/);
-	if (parts.length === 2) {
-	  const month = parseInt(parts[0]);
-	  const year = parseInt(parts[1]);
-	  if (!isNaN(month) && month >= 1 && month <= 12 && !isNaN(year)) {
-		dateObj = new Date(year, month - 1);
-	  }
-	}
+  let hasMonth = false;
+  let hasDay = false;
+  
+  // Try standard date parsing
+  if (!isNaN(dateObj.getTime())) {
+    // Check if month and day were specified in the original string
+    hasMonth = hasMonthSpecified(originalDateStr);
+    hasDay = hasDaySpecified(originalDateStr);
+  } else {
+    // Try parsing various formats
+    const formats = [
+      // MM/YYYY or MM-YYYY
+      { regex: /^(\d{1,2})[-\/](\d{4})$/, yearIdx: 2, monthIdx: 1 },
+      // YYYY/MM or YYYY-MM
+      { regex: /^(\d{4})[-\/](\d{1,2})$/, yearIdx: 1, monthIdx: 2 },
+      // Month Name YYYY or YYYY Month Name
+      { regex: /^([a-z]+)\s+(\d{4})$|^(\d{4})\s+([a-z]+)$/i, yearIdx: [2, 3], monthIdx: [1, 4], isText: true },
+      // DD Month Name YYYY
+      { regex: /^(\d{1,2})\s+([a-z]+)\s+(\d{4})$/i, yearIdx: 3, monthIdx: 2, dayIdx: 1, isText: true },
+      // Month Name DD, YYYY
+      { regex: /^([a-z]+)\s+(\d{1,2})(?:,|\.|\s)+(\d{4})$/i, yearIdx: 3, monthIdx: 1, dayIdx: 2, isText: true },
+      // YYYY alone
+      { regex: /^(\d{4})$/, yearIdx: 1 }
+    ];
+    
+    for (const format of formats) {
+      const match = originalDateStr.match(format.regex);
+      if (match) {
+        const yearIndex = Array.isArray(format.yearIdx) 
+          ? format.yearIdx.find(idx => match[idx]) 
+          : format.yearIdx;
+        const year = parseInt(match[yearIndex]);
+        
+        let month = null;
+        if (format.monthIdx) {
+          const monthIndex = Array.isArray(format.monthIdx) 
+            ? format.monthIdx.find(idx => match[idx]) 
+            : format.monthIdx;
+          
+          if (format.isText) {
+            month = getMonthFromName(match[monthIndex]);
+          } else {
+            month = parseInt(match[monthIndex]);
+          }
+          hasMonth = true;
+        }
+        
+        let day = null;
+        if (format.dayIdx) {
+          day = parseInt(match[format.dayIdx]);
+          hasDay = true;
+        }
+        
+        // Create a new date object
+        dateObj = new Date(year, month ? month - 1 : 0, day || 1);
+        break;
+      }
+    }
   }
 
-  const year = dateObj.getFullYear();
-  n += addYamlField('year', year);
-
-  const month = dateObj.getMonth() + 1; // Month is 0-indexed
-  const day = dateObj.getDate();
-
-  n += addYamlField('date', data.date);
-
-  if (!isNaN(month) && month >= 1 && month <= 12 && data.date.match(/[/-]\d{1,2}[/-]/)) {
-	n += addYamlField('month', month);
+  // Only add the fields if we have a valid date
+  if (!isNaN(dateObj.getTime())) {
+    const year = dateObj.getFullYear();
+    n += addYamlField('year', year);
+    
+    if (hasMonth) {
+      const month = dateObj.getMonth() + 1;
+      n += addYamlField('month', month);
+    }
+    
+    if (hasDay) {
+      const day = dateObj.getDate();
+      n += addYamlField('day', day);
+    }
   }
-  if (!isNaN(day) && day >= 1 && day <= 31 && data.date.match(/\d{1,2}[/-]\d{1,2}[/-]/)) {
-	n += addYamlField('day', day);
-  }
+
+  // Add the original date string to the frontmatter
+  n += addYamlField('date', originalDateStr);
   delete data.date;
+}
+
+// Helper function to check if the month was explicitly specified
+function hasMonthSpecified(dateStr) {
+  const monthNames = ["january", "february", "march", "april", "may", "june", 
+                     "july", "august", "september", "october", "november", "december",
+                     "jan", "feb", "mar", "apr", "jun", "jul", "aug", "sep", "oct", "nov", "dec"];
+                     
+  const lowerStr = dateStr.toLowerCase();
+  
+  // Check for textual month
+  for (const month of monthNames) {
+    if (lowerStr.includes(month)) return true;
+  }
+  
+  // Check for numeric patterns that indicate month presence
+  if (dateStr.match(/\d{1,2}[-\/]\d{4}/) || // MM/YYYY
+      dateStr.match(/\d{4}[-\/]\d{1,2}/) || // YYYY/MM
+      dateStr.match(/\d{1,2}[-\/]\d{1,2}[-\/]\d{1,2}/) || // MM/DD/YYYY formats
+      dateStr.match(/\d{4}[-\/]\d{1,2}[-\/]\d{1,2}/)) {  // YYYY/MM/DD formats
+    return true;
+  }
+  
+  return false;
+}
+
+// Helper function to check if the day was explicitly specified
+function hasDaySpecified(dateStr) {
+  const lowerStr = dateStr.toLowerCase();
+  
+  // Check for textual day patterns
+  const monthNames = ["january", "february", "march", "april", "may", "june", 
+                     "july", "august", "september", "october", "november", "december",
+                     "jan", "feb", "mar", "apr", "jun", "jul", "aug", "sep", "oct", "nov", "dec"];
+  
+  for (const month of monthNames) {
+    if (lowerStr.match(new RegExp(`\\d{1,2}\\s+${month}`)) || 
+        lowerStr.match(new RegExp(`${month}\\s+\\d{1,2}`))) {
+      return true;
+    }
+  }
+  
+  // Check for numeric patterns that indicate day presence
+  if (dateStr.match(/\d{1,2}[-\/]\d{1,2}[-\/]\d{4}/) || // DD/MM/YYYY or MM/DD/YYYY
+      dateStr.match(/\d{4}[-\/]\d{1,2}[-\/]\d{1,2}/)) {  // YYYY/MM/DD
+    return true;
+  }
+  
+  return false;
+}
+
+// Helper function to get month number from name
+function getMonthFromName(name) {
+  const monthNames = ["january", "february", "march", "april", "may", "june", 
+                     "july", "august", "september", "october", "november", "december"];
+  const shortMonthNames = ["jan", "feb", "mar", "apr", "may", "jun", 
+                          "jul", "aug", "sep", "oct", "nov", "dec"];
+  
+  name = name.toLowerCase();
+  
+  // Check full names
+  const fullIndex = monthNames.findIndex(m => m === name);
+  if (fullIndex !== -1) return fullIndex + 1;
+  
+  // Check short names
+  const shortIndex = shortMonthNames.findIndex(m => m === name);
+  if (shortIndex !== -1) return shortIndex + 1;
+  
+  // Check for partial matches
+  for (let i = 0; i < monthNames.length; i++) {
+    if (name.startsWith(monthNames[i].substring(0, 3))) {
+      return i + 1;
+    }
+  }
+  
+  return null;
 }
 
 // Handle creators and convert to authors

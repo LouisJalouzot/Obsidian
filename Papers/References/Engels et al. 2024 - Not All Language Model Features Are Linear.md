@@ -2,6 +2,8 @@
 zoteroTags:
   - notion
 year: 2024
+month: 5
+day: 23
 date: 23 May 2024
 authors:
   - "Engels, Joshua"

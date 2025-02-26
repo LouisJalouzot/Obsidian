@@ -2,6 +2,7 @@
 zoteroTags:
   - notion
 year: 2022
+month: 8
 date: 08/2022
 authors:
   - "Kaniuth, Philipp"

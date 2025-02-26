@@ -2,9 +2,9 @@
 zoteroTags:
   - notion
 year: 2020
-date: 2020-06-27
 month: 6
 day: 27
+date: 2020-06-27
 authors:
   - "Schrimpf, Martin"
   - "Blank, Idan"

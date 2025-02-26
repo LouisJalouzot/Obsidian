@@ -2,6 +2,7 @@
 zoteroTags:
   - notion
 year: 2020
+month: 7
 date: 7/2020
 authors:
   - "Clark, Peter"

@@ -2,9 +2,9 @@
 zoteroTags:
   - notion
 year: 2023
-date: 2023-09-13
 month: 9
 day: 13
+date: 2023-09-13
 authors:
   - "Caro, Josue Ortega"
   - "Fonseca, Antonio H. De O."

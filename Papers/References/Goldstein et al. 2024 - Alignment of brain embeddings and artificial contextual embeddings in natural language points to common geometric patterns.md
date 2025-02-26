@@ -2,9 +2,9 @@
 zoteroTags:
   - notion
 year: 2024
-date: 2024-03-30
 month: 3
 day: 30
+date: 2024-03-30
 authors:
   - "Goldstein, Ariel"
   - "Grinstein-Dabush, Avigail"

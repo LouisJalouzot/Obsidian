@@ -2,6 +2,8 @@
 zoteroTags:
   - notion
 year: 2018
+month: 4
+day: 3
 date: 3 April 2018
 authors:
   - "Ganea, O."

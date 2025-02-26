@@ -27,7 +27,7 @@ if (data.date) {
     fp += year.toString();
 }
 fp += ' - ';
-fp += data.title.replace(/[/\\:]|\*/g, '').trim();
+fp += data.title.replace(/[/\\:?!]|\*/g, '').trim();;
 data.filename = fp;
 return 'Papers/References/' + fp;
 }

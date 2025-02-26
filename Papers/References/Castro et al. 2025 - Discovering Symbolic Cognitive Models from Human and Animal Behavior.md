@@ -2,9 +2,9 @@
 zoteroTags:
   - notion
 year: 2025
-date: 2025-02-06
 month: 2
 day: 6
+date: 2025-02-06
 authors:
   - "Castro, Pablo Samuel"
   - "Tomasev, Nenad"

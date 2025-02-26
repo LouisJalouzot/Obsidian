@@ -2,9 +2,9 @@
 zoteroTags:
   - notion
 year: 2011
-date: 2011-08-01
 month: 8
 day: 1
+date: 2011-08-01
 authors:
   - "Pei, Xiaomei"
   - "Barbour, Dennis L"

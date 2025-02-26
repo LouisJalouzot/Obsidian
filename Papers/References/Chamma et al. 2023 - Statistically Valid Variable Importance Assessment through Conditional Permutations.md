@@ -5,9 +5,9 @@ zoteroTags:
   - Statistics - Machine Learning
   - notion
 year: 2023
-date: 2023-10-25
 month: 10
 day: 25
+date: 2023-10-25
 authors:
   - "Chamma, Ahmad"
   - "Engemann, Denis A."

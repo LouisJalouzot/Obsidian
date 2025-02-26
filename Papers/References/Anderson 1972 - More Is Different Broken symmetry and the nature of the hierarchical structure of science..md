@@ -2,9 +2,9 @@
 zoteroTags:
   - notion
 year: 1972
-date: 1972-08-04
 month: 8
 day: 4
+date: 1972-08-04
 authors:
   - "Anderson, P. W."
 generated: true

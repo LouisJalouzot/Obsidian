@@ -2,6 +2,8 @@
 zoteroTags:
   - notion
 year: 2018
+month: 12
+day: 20
 date: 20 December 2018
 authors:
   - "McCoy, R. Thomas"

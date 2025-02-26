@@ -2,9 +2,9 @@
 zoteroTags:
   - notion
 year: 2021
-date: 2021-10-14
 month: 10
 day: 14
+date: 2021-10-14
 authors:
   - "Liu, Serena"
   - "Chan, Jonathan"

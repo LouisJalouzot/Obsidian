@@ -5,9 +5,9 @@ zoteroTags:
   - Computer Science - Machine Learning
   - notion
 year: 2023
-date: 2023-10-23
 month: 10
 day: 23
+date: 2023-10-23
 authors:
   - "Hao, Sophie"
   - "Linzen, Tal"

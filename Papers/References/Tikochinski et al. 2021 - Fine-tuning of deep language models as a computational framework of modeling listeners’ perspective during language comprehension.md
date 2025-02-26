@@ -2,9 +2,9 @@
 zoteroTags:
   - notion
 year: 2021
-date: 2021-11-23
 month: 11
 day: 23
+date: 2021-11-23
 authors:
   - "Tikochinski, Refael"
   - "Goldstein, Ariel"

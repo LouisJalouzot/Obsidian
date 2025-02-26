@@ -2,6 +2,8 @@
 zoteroTags:
   - notion
 year: 2023
+month: 5
+day: 23
 date: 23 May 2023
 authors:
   - "Allen-Zhu, Zeyuan"

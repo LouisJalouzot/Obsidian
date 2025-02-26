@@ -2,6 +2,8 @@
 zoteroTags:
   - notion
 year: 2024
+month: 10
+day: 28
 date: 28 October 2024
 authors:
   - "Nikankin, Yaniv"

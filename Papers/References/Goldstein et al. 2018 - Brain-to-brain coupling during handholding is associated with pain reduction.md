@@ -2,9 +2,9 @@
 zoteroTags:
   - notion
 year: 2018
-date: 2018-03-13
 month: 3
 day: 13
+date: 2018-03-13
 authors:
   - "Goldstein, Pavel"
   - "Weissman-Fogel, Irit"

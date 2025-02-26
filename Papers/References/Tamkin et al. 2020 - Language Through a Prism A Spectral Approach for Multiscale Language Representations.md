@@ -2,6 +2,8 @@
 zoteroTags:
   - notion
 year: 2020
+month: 11
+day: 9
 date: 9 November 2020
 authors:
   - "Tamkin, Alex"

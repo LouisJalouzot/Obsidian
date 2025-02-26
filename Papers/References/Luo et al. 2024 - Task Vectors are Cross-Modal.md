@@ -2,6 +2,8 @@
 zoteroTags:
   - notion
 year: 2024
+month: 10
+day: 29
 date: 29 October 2024
 authors:
   - "Luo, Grace"

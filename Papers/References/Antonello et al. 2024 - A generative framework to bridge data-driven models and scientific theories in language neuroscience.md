@@ -2,6 +2,8 @@
 zoteroTags:
   - notion
 year: 2024
+month: 10
+day: 1
 date: 1 October 2024
 authors:
   - "Antonello, Richard"

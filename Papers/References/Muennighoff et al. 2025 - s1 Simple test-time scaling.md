@@ -6,6 +6,8 @@ zoteroTags:
   - Reasoning
   - notion
 year: 2025
+month: 1
+day: 31
 date: 31 January 2025
 authors:
   - "Muennighoff, Niklas"

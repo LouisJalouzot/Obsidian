@@ -6,9 +6,9 @@ zoteroTags:
   - Quantitative Biology - Biomolecules
   - notion
 year: 2021
-date: 2021-03-28
 month: 3
 day: 28
+date: 2021-03-28
 authors:
   - "Vig, Jesse"
   - "Madani, Ali"

@@ -2,6 +2,8 @@
 zoteroTags:
   - notion
 year: 2024
+month: 12
+day: 29
 date: 29 December 2024
 authors:
   - "Park, Core Francisco"

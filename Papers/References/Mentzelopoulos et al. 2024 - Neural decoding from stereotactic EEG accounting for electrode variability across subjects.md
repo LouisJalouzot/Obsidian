@@ -2,6 +2,8 @@
 zoteroTags:
   - notion
 year: 2024
+month: 11
+day: 1
 date: 1 November 2024
 authors:
   - "Mentzelopoulos, Georgios"

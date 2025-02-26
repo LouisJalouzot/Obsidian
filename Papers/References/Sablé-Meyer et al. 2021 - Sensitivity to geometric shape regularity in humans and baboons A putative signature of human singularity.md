@@ -2,9 +2,9 @@
 zoteroTags:
   - notion
 year: 2021
-date: 2021-04-20
 month: 4
 day: 20
+date: 2021-04-20
 authors:
   - "Sablé-Meyer, Mathias"
   - "Fagot, Joël"

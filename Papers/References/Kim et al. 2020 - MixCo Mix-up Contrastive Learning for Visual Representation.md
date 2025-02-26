@@ -2,6 +2,8 @@
 zoteroTags:
   - notion
 year: 2020
+month: 10
+day: 13
 date: 13 October 2020
 authors:
   - "Kim, Sungnyun"

@@ -2,6 +2,8 @@
 zoteroTags:
   - notion
 year: 2025
+month: 1
+day: 27
 date: 27 January 2025
 authors:
   - "Deb, Mayukh"

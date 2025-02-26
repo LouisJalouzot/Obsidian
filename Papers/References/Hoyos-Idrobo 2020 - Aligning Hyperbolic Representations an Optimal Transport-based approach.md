@@ -4,9 +4,9 @@ zoteroTags:
   - Statistics - Machine Learning
   - notion
 year: 2020
-date: 2020-12-02
 month: 12
 day: 2
+date: 2020-12-02
 authors:
   - "Hoyos-Idrobo, Andrés"
 generated: true

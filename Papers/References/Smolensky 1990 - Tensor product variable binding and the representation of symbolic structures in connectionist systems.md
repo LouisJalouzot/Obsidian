@@ -2,6 +2,7 @@
 zoteroTags:
   - notion
 year: 1990
+month: 11
 date: 11/1990
 authors:
   - "Smolensky, Paul"

@@ -2,6 +2,8 @@
 zoteroTags:
   - notion
 year: 2024
+month: 10
+day: 15
 date: 15 October 2024
 authors:
   - "Rathi, Neil"

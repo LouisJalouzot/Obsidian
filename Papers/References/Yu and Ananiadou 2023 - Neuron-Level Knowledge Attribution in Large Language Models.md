@@ -2,6 +2,8 @@
 zoteroTags:
   - notion
 year: 2023
+month: 12
+day: 19
 date: 19 December 2023
 authors:
   - "Yu, Zeping"

@@ -2,6 +2,7 @@
 zoteroTags:
   - notion
 year: 2017
+month: 9
 date: 9/2017
 authors:
   - "Matsuo, Tadashi"

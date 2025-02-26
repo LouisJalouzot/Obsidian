@@ -2,6 +2,8 @@
 zoteroTags:
   - notion
 year: 2019
+month: 4
+day: 26
 date: 26 April 2019
 authors:
   - "Mao, Jiayuan"

@@ -2,9 +2,9 @@
 zoteroTags:
   - notion
 year: 2019
-date: 2019-07-25
 month: 7
 day: 25
+date: 2019-07-25
 authors:
   - "Wang, Chi"
   - "Ding, Bailu"

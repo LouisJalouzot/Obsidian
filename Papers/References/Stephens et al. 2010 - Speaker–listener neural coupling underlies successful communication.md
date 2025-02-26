@@ -2,9 +2,9 @@
 zoteroTags:
   - notion
 year: 2010
-date: 2010-08-10
 month: 8
 day: 10
+date: 2010-08-10
 authors:
   - "Stephens, Greg J."
   - "Silbert, Lauren J."

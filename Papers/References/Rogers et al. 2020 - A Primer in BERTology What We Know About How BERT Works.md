@@ -2,6 +2,7 @@
 zoteroTags:
   - notion
 year: 2020
+month: 12
 date: 12/2020
 authors:
   - "Rogers, Anna"

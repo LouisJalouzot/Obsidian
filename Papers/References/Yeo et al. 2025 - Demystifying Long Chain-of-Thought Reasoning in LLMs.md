@@ -2,6 +2,8 @@
 zoteroTags:
   - notion
 year: 2025
+month: 2
+day: 5
 date: 5 February 2025
 authors:
   - "Yeo, Edward"

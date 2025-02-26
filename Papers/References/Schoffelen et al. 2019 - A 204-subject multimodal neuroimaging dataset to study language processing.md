@@ -2,9 +2,9 @@
 zoteroTags:
   - notion
 year: 2019
-date: 2019-04-03
 month: 4
 day: 3
+date: 2019-04-03
 authors:
   - "Schoffelen, Jan-Mathijs"
   - "Oostenveld, Robert"

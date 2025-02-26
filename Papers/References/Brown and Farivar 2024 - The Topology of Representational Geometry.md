@@ -2,9 +2,9 @@
 zoteroTags:
   - notion
 year: 2024
-date: 2024-02-21
 month: 2
 day: 21
+date: 2024-02-21
 authors:
   - "Brown, Shael"
   - "Farivar, Reza"

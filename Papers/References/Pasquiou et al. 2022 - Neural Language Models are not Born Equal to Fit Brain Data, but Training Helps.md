@@ -4,9 +4,9 @@ zoteroTags:
   - Computer Science - Computation and Language
   - notion
 year: 2022
-date: 2022-07-07
 month: 7
 day: 7
+date: 2022-07-07
 authors:
   - "Pasquiou, Alexandre"
   - "Lakretz, Yair"

@@ -2,9 +2,9 @@
 zoteroTags:
   - notion
 year: 2024
-date: 2024-01-03
 month: 1
 day: 3
+date: 2024-01-03
 authors:
   - "Oby, Emily R."
   - "Degenhart, Alan D."

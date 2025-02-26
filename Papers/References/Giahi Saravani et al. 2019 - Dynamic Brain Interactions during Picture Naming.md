@@ -2,6 +2,7 @@
 zoteroTags:
   - notion
 year: 2019
+month: 7
 date: 07/2019
 authors:
   - "Giahi Saravani, Aram"

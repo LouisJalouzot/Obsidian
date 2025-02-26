@@ -2,9 +2,9 @@
 zoteroTags:
   - notion
 year: 2024
-date: 2024-11-12
 month: 11
 day: 12
+date: 2024-11-12
 authors:
   - "Luettgau, Lennart"
   - "Erdmann, Tore"

@@ -2,6 +2,7 @@
 zoteroTags:
   - notion
 year: 2024
+month: 1
 date: 01/2024
 authors:
   - "Lee, Jayden J."

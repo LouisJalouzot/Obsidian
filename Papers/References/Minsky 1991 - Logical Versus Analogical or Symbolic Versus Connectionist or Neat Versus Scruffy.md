@@ -2,9 +2,9 @@
 zoteroTags:
   - notion
 year: 1991
-date: 1991-06-15
 month: 6
 day: 15
+date: 1991-06-15
 authors:
   - "Minsky, Marvin L."
 generated: true

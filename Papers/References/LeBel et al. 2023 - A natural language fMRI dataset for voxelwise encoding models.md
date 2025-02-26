@@ -2,9 +2,9 @@
 zoteroTags:
   - notion
 year: 2023
-date: 2023-08-23
 month: 8
 day: 23
+date: 2023-08-23
 authors:
   - "LeBel, Amanda"
   - "Wagner, Lauren"

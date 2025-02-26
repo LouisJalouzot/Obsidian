@@ -2,9 +2,9 @@
 zoteroTags:
   - notion
 year: 2023
-date: 2023-10-26
 month: 10
 day: 26
+date: 2023-10-26
 authors:
   - "Richard, Hugo"
   - "Thirion, Bertrand"

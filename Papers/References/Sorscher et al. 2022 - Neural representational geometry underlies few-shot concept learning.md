@@ -2,9 +2,9 @@
 zoteroTags:
   - notion
 year: 2022
-date: 2022-10-25
 month: 10
 day: 25
+date: 2022-10-25
 authors:
   - "Sorscher, Ben"
   - "Ganguli, Surya"

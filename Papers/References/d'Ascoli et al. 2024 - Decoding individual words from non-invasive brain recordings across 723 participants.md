@@ -2,6 +2,8 @@
 zoteroTags:
   - notion
 year: 2024
+month: 12
+day: 11
 date: 11 December 2024
 authors:
   - "d'Ascoli, St'ephane"

@@ -4,9 +4,9 @@ zoteroTags:
   - Statistics - Machine Learning
   - notion
 year: 2019
-date: 2019-10-24
 month: 10
 day: 24
+date: 2019-10-24
 authors:
   - "Lezcano-Casado, Mario"
 generated: true

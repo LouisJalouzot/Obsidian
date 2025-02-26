@@ -4,9 +4,9 @@ zoteroTags:
   - Computer Science - Data Structures and Algorithms
   - notion
 year: 2023
-date: 2023-11-04
 month: 11
 day: 4
+date: 2023-11-04
 authors:
   - "Williams, Virginia Vassilevska"
   - "Xu, Yinzhan"

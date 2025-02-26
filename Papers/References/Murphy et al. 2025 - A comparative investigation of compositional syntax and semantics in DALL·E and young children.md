@@ -6,9 +6,9 @@ zoteroTags:
   - DALL·E
   - Syntax
 year: 2025
-date: 2025-01-01
 month: 1
 day: 1
+date: 2025-01-01
 authors:
   - "Murphy, Elliot"
   - "de Villiers, Jill"

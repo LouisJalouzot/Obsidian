@@ -2,6 +2,8 @@
 zoteroTags:
   - notion
 year: 2025
+month: 1
+day: 22
 date: 22 January 2025
 authors:
   - "DeepSeek-AI,"

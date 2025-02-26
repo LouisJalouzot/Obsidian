@@ -2,6 +2,8 @@
 zoteroTags:
   - notion
 year: 2022
+month: 6
+day: 19
 date: 19 June 2022
 authors:
   - "Thual, Alexis"

@@ -7,9 +7,9 @@ zoteroTags:
   - MVPA
   - Rapid event-related design
 year: 2012
-date: 2012-02-01
 month: 2
 day: 1
+date: 2012-02-01
 authors:
   - "Mumford, Jeanette A."
   - "Turner, Benjamin O."

@@ -2,6 +2,8 @@
 zoteroTags:
   - notion
 year: 2015
+month: 12
+day: 7
 date: 7 December 2015
 authors:
   - "Chen, Po-Hsuan"

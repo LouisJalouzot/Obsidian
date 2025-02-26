@@ -2,6 +2,8 @@
 zoteroTags:
   - notion
 year: 2024
+month: 3
+day: 21
 date: 21 March 2024
 authors:
   - "Pohl, Stephan"

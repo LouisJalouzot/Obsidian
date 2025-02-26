@@ -2,6 +2,8 @@
 zoteroTags:
   - notion
 year: 2024
+month: 10
+day: 10
 date: 10 October 2024
 authors:
   - "Li, Yuxiao"

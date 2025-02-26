@@ -2,6 +2,7 @@
 zoteroTags:
   - notion
 year: 1988
+month: 3
 date: 3/1988
 authors:
   - "Fodor, Jerry A."

@@ -2,6 +2,7 @@
 zoteroTags:
   - notion
 year: 2023
+month: 11
 date: 11/2023
 authors:
   - "Schonhaut, Daniel R."

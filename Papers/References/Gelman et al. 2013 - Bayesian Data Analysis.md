@@ -1,8 +1,8 @@
 ---
 year: 2013
-date: 2013-11-27
 month: 11
 day: 27
+date: 2013-11-27
 authors:
   - "Gelman, Andrew"
   - "Carlin, John B."

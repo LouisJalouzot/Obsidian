@@ -2,6 +2,7 @@
 zoteroTags:
   - notion
 year: 2010
+month: 8
 date: 8/2010
 authors:
   - "Griffiths, Thomas L."

@@ -2,6 +2,7 @@
 zoteroTags:
   - notion
 year: 2022
+month: 2
 date: 02/2022
 authors:
   - "Fried, Itzhak"

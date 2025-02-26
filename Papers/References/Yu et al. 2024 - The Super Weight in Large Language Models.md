@@ -2,6 +2,8 @@
 zoteroTags:
   - notion
 year: 2024
+month: 11
+day: 11
 date: 11 November 2024
 authors:
   - "Yu, Mengxia"

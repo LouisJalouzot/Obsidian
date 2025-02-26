@@ -2,9 +2,9 @@
 zoteroTags:
   - notion
 year: 2022
-date: 2022-06-09
 month: 6
 day: 9
+date: 2022-06-09
 authors:
   - "Kumar, Sreejan"
   - "Sumers, Theodore R."
