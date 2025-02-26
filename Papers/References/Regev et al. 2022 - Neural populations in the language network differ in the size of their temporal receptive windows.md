@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2022
 month: 12
 day: 30
@@ -16,7 +14,7 @@ authors:
   - "Fedorenko, Evelina"
 generated: true
 key: J5SX6ML8
-version: 880
+version: 2249
 itemType: journalArticle
 title: Neural populations in the language network differ in the size of their temporal receptive windows
 language: en

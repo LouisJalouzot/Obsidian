@@ -2,7 +2,6 @@
 zoteroTags:
   - Human behaviour
   - Language
-  - notion
 year: 2022
 month: 8
 day: 29
@@ -20,7 +19,7 @@ authors:
   - "Hale, John"
 generated: true
 key: CGM8YFCW
-version: 204
+version: 2241
 itemType: journalArticle
 title: Le Petit Prince multilingual naturalistic fMRI corpus
 publicationTitle: Scientific Data

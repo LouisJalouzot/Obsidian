@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2023
 month: 11
 date: 11/2023
@@ -11,7 +9,7 @@ authors:
   - "Fried, Itzhak"
 generated: true
 key: FRPI6MBV
-version: 440
+version: 2237
 itemType: journalArticle
 title: A neural code for time and space in the human brain
 publicationTitle: Cell Reports
@@ -25,6 +23,7 @@ ISSN: 22111247
 url: "https://linkinghub.elsevier.com/retrieve/pii/S2211124723012500"
 accessDate: "2024-04-26T09:49:55Z"
 libraryCatalog: Semantic Scholar
+deleted: 1
 collections:
   - ERQKEKFA
 dateAdded: "2024-04-26T09:49:55Z"

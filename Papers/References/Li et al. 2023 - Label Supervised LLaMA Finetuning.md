@@ -2,7 +2,6 @@
 zoteroTags:
   - Computation and Language (cs.CL)
   - "FOS: Computer and information sciences"
-  - notion
 year: 2023
 date: 2023
 authors:
@@ -16,7 +15,7 @@ authors:
   - "Zhong, Xiaoqin"
 generated: true
 key: Y6VWVVCY
-version: 2042
+version: 2257
 itemType: journalArticle
 title: Label Supervised LLaMA Finetuning
 DOI: 10.48550/ARXIV.2310.01208

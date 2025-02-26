@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 1991
 month: 6
 day: 15
@@ -9,7 +7,7 @@ authors:
   - "Minsky, Marvin L."
 generated: true
 key: T5K4PCSV
-version: 2040
+version: 2253
 itemType: journalArticle
 title: Logical Versus Analogical or Symbolic Versus Connectionist or Neat Versus Scruffy
 publicationTitle: AI Magazine

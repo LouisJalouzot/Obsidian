@@ -2,7 +2,6 @@
 zoteroTags:
   - Computer Science - Machine Learning
   - Statistics - Machine Learning
-  - notion
 year: 2019
 month: 10
 day: 24
@@ -11,7 +10,7 @@ authors:
   - "Lezcano-Casado, Mario"
 generated: true
 key: 9FUZGK2V
-version: 127
+version: 2243
 itemType: preprint
 title: Trivializations for Gradient-Based Optimization on Manifolds
 repository: arXiv

@@ -4,7 +4,6 @@ zoteroTags:
   - "FOS: Biological sciences"
   - "FOS: Computer and information sciences"
   - Neurons and Cognition (q-bio.NC)
-  - notion
 year: 2024
 date: 2024
 authors:
@@ -12,7 +11,7 @@ authors:
   - "Dehaene, Stanislas"
 generated: true
 key: 25PT8KHC
-version: 2041
+version: 2255
 itemType: journalArticle
 title: Cracking the neural code for word recognition in convolutional neural networks
 DOI: 10.48550/ARXIV.2403.06159

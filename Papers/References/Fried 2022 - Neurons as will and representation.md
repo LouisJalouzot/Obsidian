@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2022
 month: 2
 date: 02/2022
@@ -8,7 +6,7 @@ authors:
   - "Fried, Itzhak"
 generated: true
 key: QJYCCEBL
-version: 434
+version: 2238
 itemType: journalArticle
 title: Neurons as will and representation
 publicationTitle: Nature Reviews Neuroscience

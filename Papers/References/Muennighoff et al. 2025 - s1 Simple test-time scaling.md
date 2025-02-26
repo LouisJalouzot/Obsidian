@@ -4,7 +4,6 @@ zoteroTags:
   - Math
   - Qwen
   - Reasoning
-  - notion
 year: 2025
 month: 1
 day: 31
@@ -22,7 +21,7 @@ authors:
   - "Hashimoto, Tatsunori"
 generated: true
 key: DY2U3AS9
-version: 2045
+version: 2268
 itemType: conferencePaper
 title: "s1: Simple test-time scaling"
 shortTitle: s1

@@ -2,7 +2,6 @@
 zoteroTags:
   - Computer Science - Machine Learning
   - Statistics - Machine Learning
-  - notion
 year: 2020
 month: 12
 day: 2
@@ -11,7 +10,7 @@ authors:
   - "Hoyos-Idrobo, Andrés"
 generated: true
 key: WRL7QLC3
-version: 114
+version: 2243
 itemType: preprint
 title: "Aligning Hyperbolic Representations: an Optimal Transport-based approach"
 repository: arXiv

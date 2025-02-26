@@ -3,7 +3,6 @@ zoteroTags:
   - Computer Science - Artificial Intelligence
   - Computer Science - Computation and Language
   - Computer Science - Machine Learning
-  - notion
 year: 2023
 month: 10
 day: 23
@@ -13,7 +12,7 @@ authors:
   - "Linzen, Tal"
 generated: true
 key: HAVHV9E8
-version: 54
+version: 2244
 itemType: preprint
 title: Verb Conjugation in Transformers Is Determined by Linear Encodings of Subject Number
 repository: arXiv

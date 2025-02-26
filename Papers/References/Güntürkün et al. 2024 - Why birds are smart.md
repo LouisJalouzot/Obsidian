@@ -4,7 +4,6 @@ zoteroTags:
   - evolution
   - mammals
   - neuron number
-  - notion
   - pallium
   - prefrontal cortex
 year: 2024
@@ -17,7 +16,7 @@ authors:
   - "Rose, Jonas"
 generated: true
 key: 3JHMNZ5H
-version: 1914
+version: 2245
 itemType: journalArticle
 title: Why birds are smart
 publicationTitle: Trends in Cognitive Sciences

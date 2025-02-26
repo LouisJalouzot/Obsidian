@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2024
 month: 5
 day: 24
@@ -15,7 +13,7 @@ authors:
   - "Baroni, Marco"
 generated: true
 key: 46N67X87
-version: 505
+version: 2234
 itemType: conferencePaper
 title: Emergence of a High-Dimensional Abstraction Phase in Language Transformers
 url: "https://www.semanticscholar.org/paper/Emergence-of-a-High-Dimensional-Abstraction-Phase-Cheng-Doimo/143224cc71d29805bf792a4576cdbfe1f60bd52b"

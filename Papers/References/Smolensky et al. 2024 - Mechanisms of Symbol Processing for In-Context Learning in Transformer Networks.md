@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2024
 month: 10
 day: 23
@@ -13,7 +11,7 @@ authors:
   - "Gao, Jianfeng"
 generated: true
 key: U52Z33TJ
-version: 1284
+version: 2254
 itemType: conferencePaper
 title: Mechanisms of Symbol Processing for In-Context Learning in Transformer Networks
 url: "https://www.semanticscholar.org/paper/Mechanisms-of-Symbol-Processing-for-In-Context-in-Smolensky-Fernandez/2c2f17ac628b241091c2057739aa408287e2956d"

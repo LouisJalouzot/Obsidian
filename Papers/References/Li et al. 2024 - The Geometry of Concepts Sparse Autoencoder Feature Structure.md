@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2024
 month: 10
 day: 10
@@ -14,7 +12,7 @@ authors:
   - "Tegmark, Max"
 generated: true
 key: M22CQLLU
-version: 1248
+version: 2260
 itemType: conferencePaper
 title: "The Geometry of Concepts: Sparse Autoencoder Feature Structure"
 shortTitle: The Geometry of Concepts

@@ -4,7 +4,6 @@ zoteroTags:
   - Computation and Language (cs.CL)
   - "FOS: Computer and information sciences"
   - Symbolic Computation (cs.SC)
-  - notion
 year: 2023
 date: 2023
 authors:
@@ -17,7 +16,7 @@ authors:
   - "Tenenbaum, Joshua B."
 generated: true
 key: BQIRBM8K
-version: 2044
+version: 2266
 itemType: journalArticle
 title: "From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought"
 DOI: 10.48550/ARXIV.2306.12672

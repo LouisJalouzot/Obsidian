@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2015
 month: 1
 date: 01/2015
@@ -12,7 +10,7 @@ authors:
   - "Gramfort, Alexandre"
 generated: true
 key: F8RFNYJU
-version: 220
+version: 2240
 itemType: journalArticle
 title: Data-driven HRF estimation for encoding and decoding models
 publicationTitle: NeuroImage
@@ -25,6 +23,7 @@ ISSN: 10538119
 url: "https://linkinghub.elsevier.com/retrieve/pii/S1053811914008027"
 accessDate: "2024-03-17T19:02:27Z"
 libraryCatalog: Semantic Scholar
+deleted: 1
 collections:
   - ERQKEKFA
 dateAdded: "2024-03-17T19:02:27Z"

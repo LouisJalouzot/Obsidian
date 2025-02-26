@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2019
 date: 2019
 authors:
@@ -9,7 +7,7 @@ authors:
   - "Seddah, Djamé"
 generated: true
 key: CLTISBI5
-version: 479
+version: 2235
 itemType: conferencePaper
 title: "What Does BERT Learn about the Structure of Language?"
 proceedingsTitle: Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics

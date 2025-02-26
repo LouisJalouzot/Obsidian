@@ -2,7 +2,6 @@
 zoteroTags:
   - Computer Vision and Pattern Recognition (cs.CV)
   - "FOS: Computer and information sciences"
-  - notion
 year: 2023
 date: 2023
 authors:
@@ -11,7 +10,7 @@ authors:
   - "Qiu, Anqi"
 generated: true
 key: C3HL472K
-version: 572
+version: 2231
 itemType: journalArticle
 title: Heterogeneous Graph Convolutional Neural Network via Hodge-Laplacian for Brain Functional Data
 DOI: 10.48550/ARXIV.2302.09323

@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2023
 month: 10
 day: 1
@@ -14,7 +12,7 @@ authors:
   - "Soatto, Stefano"
 generated: true
 key: VW3KSAYX
-version: 1231
+version: 2259
 itemType: journalArticle
 title: "Linear Spaces of Meanings: Compositional Structures in Vision-Language Models"
 publicationTitle: 2023 IEEE/CVF International Conference on Computer Vision (ICCV)

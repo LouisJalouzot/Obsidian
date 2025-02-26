@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2023
 month: 1
 day: 21
@@ -19,7 +17,7 @@ authors:
   - "Henderson, Jaimie M."
 generated: true
 key: LMWWL83R
-version: 2041
+version: 2256
 itemType: journalArticle
 title: A high-performance speech neuroprosthesis
 language: en

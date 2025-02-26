@@ -3,7 +3,6 @@ zoteroTags:
   - Computer Science - Artificial Intelligence
   - Computer Science - Machine Learning
   - Statistics - Machine Learning
-  - notion
 year: 2023
 month: 10
 day: 25
@@ -14,7 +13,7 @@ authors:
   - "Thirion, Bertrand"
 generated: true
 key: 3CU4FTKC
-version: 381
+version: 2239
 itemType: preprint
 title: Statistically Valid Variable Importance Assessment through Conditional Permutations
 repository: arXiv

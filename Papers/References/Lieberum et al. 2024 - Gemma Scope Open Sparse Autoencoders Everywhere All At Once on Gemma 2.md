@@ -4,7 +4,6 @@ zoteroTags:
   - Computation and Language (cs.CL)
   - "FOS: Computer and information sciences"
   - Machine Learning (cs.LG)
-  - notion
 year: 2024
 date: 2024
 authors:
@@ -20,7 +19,7 @@ authors:
   - "Nanda, Neel"
 generated: true
 key: PM8J23L6
-version: 1330
+version: 2261
 itemType: journalArticle
 title: "Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2"
 DOI: 10.48550/ARXIV.2408.05147

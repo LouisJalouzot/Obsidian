@@ -4,7 +4,6 @@ zoteroTags:
   - "FOS: Computer and information sciences"
   - Graphics (cs.GR)
   - I.4.5; I.2.10; I.3.5
-  - notion
 year: 2023
 date: 2023
 authors:
@@ -14,7 +13,7 @@ authors:
   - "Bilen, Hakan"
 generated: true
 key: VE8XZQIK
-version: 518
+version: 2233
 itemType: journalArticle
 title: "Explicit Neural Surfaces: Learning Continuous Geometry With Deformation Fields"
 DOI: 10.48550/ARXIV.2306.02956

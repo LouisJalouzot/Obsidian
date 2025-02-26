@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2011
 month: 8
 day: 1
@@ -12,7 +10,7 @@ authors:
   - "Schalk, Gerwin"
 generated: true
 key: HGXFVA6J
-version: 482
+version: 2235
 itemType: journalArticle
 title: Decoding vowels and consonants in spoken and imagined words using electrocorticographic signals in humans
 publicationTitle: Journal of Neural Engineering

@@ -6,7 +6,6 @@ zoteroTags:
   - "FOS: Computer and information sciences"
   - Machine Learning (cs.LG)
   - Neurons and Cognition (q-bio.NC)
-  - notion
 year: 2024
 date: 2024
 authors:
@@ -19,7 +18,7 @@ authors:
   - "Gao, Jianfeng"
 generated: true
 key: SSFFYXET
-version: 2042
+version: 2257
 itemType: journalArticle
 title: Crafting Interpretable Embeddings by Asking LLMs Questions
 DOI: 10.48550/ARXIV.2405.16714

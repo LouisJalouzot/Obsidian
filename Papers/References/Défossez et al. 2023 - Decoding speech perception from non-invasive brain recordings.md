@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2023
 month: 10
 day: 5
@@ -13,7 +11,7 @@ authors:
   - "King, Jean-Rémi"
 generated: true
 key: ZZIUBXYQ
-version: 841
+version: 2247
 itemType: journalArticle
 title: Decoding speech perception from non-invasive brain recordings
 publicationTitle: Nature Machine Intelligence

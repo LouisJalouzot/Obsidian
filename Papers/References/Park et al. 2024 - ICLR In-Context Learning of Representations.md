@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2024
 month: 12
 day: 29
@@ -16,7 +14,7 @@ authors:
   - "Tanaka, Hidenori"
 generated: true
 key: PRZKZVVV
-version: 2045
+version: 2267
 itemType: conferencePaper
 title: "ICLR: In-Context Learning of Representations"
 shortTitle: ICLR

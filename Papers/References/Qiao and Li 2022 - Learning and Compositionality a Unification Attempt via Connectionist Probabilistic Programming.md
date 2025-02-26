@@ -2,7 +2,6 @@
 zoteroTags:
   - Artificial Intelligence (cs.AI)
   - "FOS: Computer and information sciences"
-  - notion
 year: 2022
 date: 2022
 authors:
@@ -10,7 +9,7 @@ authors:
   - "Li, Hai"
 generated: true
 key: 7LDNVBTY
-version: 2047
+version: 2270
 itemType: journalArticle
 title: "Learning and Compositionality: a Unification Attempt via Connectionist Probabilistic Programming"
 DOI: 10.48550/ARXIV.2208.12789

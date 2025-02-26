@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2016
 date: 2016
 authors:
@@ -10,7 +8,7 @@ authors:
   - "Hofmann, Thomas"
 generated: true
 key: KGFQFQDQ
-version: 2039
+version: 2251
 itemType: conferencePaper
 title: Audio Based Bird Species Identification using Deep Learning Techniques
 conferenceName: Conference and Labs of the Evaluation Forum

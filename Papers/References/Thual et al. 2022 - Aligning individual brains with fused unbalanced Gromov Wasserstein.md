@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2022
 month: 6
 day: 19
@@ -15,7 +13,7 @@ authors:
   - "Thirion, B."
 generated: true
 key: IR5UY9TI
-version: 1221
+version: 2241
 itemType: conferencePaper
 title: Aligning individual brains with fused unbalanced Gromov Wasserstein
 conferenceName: Neural Information Processing Systems

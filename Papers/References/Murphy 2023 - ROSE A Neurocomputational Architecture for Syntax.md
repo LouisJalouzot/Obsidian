@@ -4,14 +4,13 @@ zoteroTags:
   - "FOS: Biological sciences"
   - "FOS: Computer and information sciences"
   - Neurons and Cognition (q-bio.NC)
-  - notion
 year: 2023
 date: 2023
 authors:
   - "Murphy, Elliot"
 generated: true
 key: 8AYGXYD6
-version: 2044
+version: 2264
 itemType: journalArticle
 title: "ROSE: A Neurocomputational Architecture for Syntax"
 DOI: 10.48550/ARXIV.2303.08877

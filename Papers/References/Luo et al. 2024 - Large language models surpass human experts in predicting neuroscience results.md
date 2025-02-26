@@ -2,7 +2,6 @@
 zoteroTags:
   - Computer Science - Artificial Intelligence
   - Quantitative Biology - Neurons and Cognition
-  - notion
 year: 2024
 month: 3
 day: 4
@@ -47,7 +46,7 @@ authors:
   - "Love, Bradley C."
 generated: true
 key: IKKP95E9
-version: 133
+version: 2243
 itemType: preprint
 title: Large language models surpass human experts in predicting neuroscience results
 repository: arXiv

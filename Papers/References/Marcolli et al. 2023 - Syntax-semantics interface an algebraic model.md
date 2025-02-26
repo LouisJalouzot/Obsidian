@@ -5,7 +5,6 @@ zoteroTags:
   - Mathematics - Logic
   - Mathematics - Quantum Algebra
   - Mathematics - Rings and Algebras
-  - notion
 year: 2023
 month: 11
 day: 10
@@ -16,7 +15,7 @@ authors:
   - "Chomsky, Noam"
 generated: true
 key: QFCK3MLF
-version: 2037
+version: 2244
 itemType: preprint
 title: "Syntax-semantics interface: an algebraic model"
 repository: arXiv

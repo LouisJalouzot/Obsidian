@@ -3,7 +3,6 @@ zoteroTags:
   - Computation and Language (cs.CL)
   - "FOS: Computer and information sciences"
   - Machine Learning (cs.LG)
-  - notion
 year: 2024
 date: 2024
 authors:
@@ -12,7 +11,7 @@ authors:
   - "Zhang, Demi"
 generated: true
 key: 54VWUBQC
-version: 601
+version: 2245
 itemType: journalArticle
 title: "Modeling Bilingual Sentence Processing: Evaluating RNN and Transformer Architectures for Cross-Language Structural Priming"
 DOI: 10.48550/ARXIV.2405.09508

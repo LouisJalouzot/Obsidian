@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2022
 month: 9
 day: 30
@@ -12,7 +10,7 @@ authors:
   - "Zong, Chengqing"
 generated: true
 key: 3I5ICTJW
-version: 2045
+version: 2267
 itemType: journalArticle
 title: A synchronized multimodal neuroimaging dataset for studying brain language processing
 publicationTitle: Scientific Data

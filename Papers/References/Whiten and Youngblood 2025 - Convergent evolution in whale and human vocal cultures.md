@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2025
 month: 2
 day: 7
@@ -10,7 +8,7 @@ authors:
   - "Youngblood, Mason"
 generated: true
 key: 72K9Q7S4
-version: 2046
+version: 2269
 itemType: journalArticle
 title: Convergent evolution in whale and human vocal cultures
 publicationTitle: Science

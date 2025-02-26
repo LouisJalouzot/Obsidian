@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2024
 month: 12
 day: 11
@@ -15,7 +13,7 @@ authors:
   - "King, Jean-Rémi"
 generated: true
 key: WWE8YWEU
-version: 2043
+version: 2263
 itemType: conferencePaper
 title: Decoding individual words from non-invasive brain recordings across 723 participants
 url: "https://www.semanticscholar.org/paper/Decoding-individual-words-from-non-invasive-brain-d'Ascoli-Bel/c81f6c09a99f8fa978be184982d9407202d3439b"

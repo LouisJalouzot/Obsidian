@@ -2,7 +2,6 @@
 zoteroTags:
   - Computation and Language (cs.CL)
   - "FOS: Computer and information sciences"
-  - notion
 year: 2022
 date: 2022
 authors:
@@ -11,7 +10,7 @@ authors:
   - "Plank, Barbara"
 generated: true
 key: C524QQFG
-version: 2038
+version: 2250
 itemType: journalArticle
 title: Spectral Probing
 DOI: 10.48550/ARXIV.2210.11860

@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2022
 month: 4
 date: 04/2022
@@ -14,7 +12,7 @@ authors:
   - "Apkarian, A. Vania"
 generated: true
 key: D96NJTCR
-version: 2044
+version: 2265
 itemType: journalArticle
 title: Limits of decoding mental states with fMRI
 publicationTitle: Cortex
@@ -27,6 +25,7 @@ ISSN: 00109452
 url: "https://linkinghub.elsevier.com/retrieve/pii/S0010945222000296"
 accessDate: "2025-01-18T11:21:30Z"
 libraryCatalog: Semantic Scholar
+deleted: 1
 collections:
   - ERQKEKFA
 dateAdded: "2025-01-18T11:21:30Z"

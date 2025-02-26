@@ -1,7 +1,6 @@
 ---
 zoteroTags:
   - Computer Science - Computation and Language
-  - notion
 year: 2021
 month: 9
 day: 15
@@ -13,7 +12,7 @@ authors:
   - "Goldberg, Yoav"
 generated: true
 key: 6VN622XT
-version: 46
+version: 2244
 itemType: preprint
 title: Counterfactual Interventions Reveal the Causal Effect of Relative Clause Representations on Agreement Prediction
 repository: arXiv

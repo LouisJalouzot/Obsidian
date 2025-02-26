@@ -2,7 +2,6 @@
 zoteroTags:
   - Computer Science - Computational Complexity
   - Computer Science - Data Structures and Algorithms
-  - notion
 year: 2023
 month: 11
 day: 4
@@ -14,7 +13,7 @@ authors:
   - "Zhou, Renfei"
 generated: true
 key: CRDFBMJC
-version: 183
+version: 2242
 itemType: preprint
 title: "New Bounds for Matrix Multiplication: from Alpha to Omega"
 repository: arXiv

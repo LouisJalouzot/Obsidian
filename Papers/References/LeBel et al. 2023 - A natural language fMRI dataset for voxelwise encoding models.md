@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2023
 month: 8
 day: 23
@@ -17,7 +15,7 @@ authors:
   - "Huth, Alexander G."
 generated: true
 key: TZRJDKFX
-version: 1221
+version: 2247
 itemType: journalArticle
 title: A natural language fMRI dataset for voxelwise encoding models
 publicationTitle: Scientific Data

@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2017
 month: 9
 date: 9/2017
@@ -10,7 +8,7 @@ authors:
   - "Shimada, Nobutaka"
 generated: true
 key: 6HLRPZAB
-version: 2040
+version: 2254
 itemType: journalArticle
 title: Transform invariant auto-encoder
 publicationTitle: 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)

@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2021
 month: 3
 date: 03/2021
@@ -11,7 +9,7 @@ authors:
   - "Klinck, Holger"
 generated: true
 key: H7RU37G6
-version: 2039
+version: 2251
 itemType: journalArticle
 title: "BirdNET: A deep learning solution for avian diversity monitoring"
 publicationTitle: Ecological Informatics
@@ -25,6 +23,7 @@ shortTitle: BirdNET
 url: "https://linkinghub.elsevier.com/retrieve/pii/S1574954121000273"
 accessDate: "2024-10-10T16:34:54Z"
 libraryCatalog: Semantic Scholar
+deleted: 1
 collections:
   - ERQKEKFA
 dateAdded: "2024-10-10T16:34:54Z"

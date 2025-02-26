@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2024
 month: 11
 day: 1
@@ -16,7 +14,7 @@ authors:
   - "Vitale, Flavia"
 generated: true
 key: FFD9ZL9P
-version: 1421
+version: 2262
 itemType: conferencePaper
 title: "Neural decoding from stereotactic EEG: accounting for electrode variability across subjects"
 shortTitle: Neural decoding from stereotactic EEG

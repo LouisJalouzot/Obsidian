@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2023
 month: 9
 day: 8
@@ -12,7 +10,7 @@ authors:
   - "Giocomo, Lisa M"
 generated: true
 key: 8GW4NVA6
-version: 2040
+version: 2252
 itemType: journalArticle
 title: One-shot entorhinal maps enable flexible navigation in novel environments
 language: en

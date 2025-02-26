@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2024
 month: 10
 day: 28
@@ -12,13 +10,14 @@ authors:
   - "Belinkov, Yonatan"
 generated: true
 key: JXZ7LLZ2
-version: 2041
+version: 2255
 itemType: conferencePaper
 title: "Arithmetic Without Algorithms: Language Models Solve Math With a Bag of Heuristics"
 shortTitle: Arithmetic Without Algorithms
 url: "https://www.semanticscholar.org/paper/Arithmetic-Without-Algorithms%3A-Language-Models-Math-Nikankin-Reusch/48e669c2679b9acf7beb8abdb789167d61ceca49"
 accessDate: "2024-11-04T09:39:07Z"
 libraryCatalog: Semantic Scholar
+deleted: 1
 collections:
   - ERQKEKFA
 dateAdded: "2024-11-04T09:39:07Z"

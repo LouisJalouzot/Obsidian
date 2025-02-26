@@ -2,7 +2,6 @@
 zoteroTags:
   - Cryptography and Security (cs.CR)
   - "FOS: Computer and information sciences"
-  - notion
 year: 2023
 date: 2023
 authors:
@@ -12,7 +11,7 @@ authors:
   - "Chen, Zhili"
 generated: true
 key: IIJ9Z8I3
-version: 1307
+version: 2260
 itemType: journalArticle
 title: Truncated Laplace and Gaussian mechanisms of RDP
 DOI: 10.48550/ARXIV.2309.12647

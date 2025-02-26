@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2020
 month: 7
 date: 7/2020
@@ -10,7 +8,7 @@ authors:
   - "Richardson, Kyle"
 generated: true
 key: M6KA2FGG
-version: 2042
+version: 2257
 itemType: conferencePaper
 title: Transformers as Soft Reasoners over Language
 proceedingsTitle: Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence

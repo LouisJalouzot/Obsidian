@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2020
 month: 6
 day: 27
@@ -16,7 +14,7 @@ authors:
   - "Fedorenko, Evelina"
 generated: true
 key: 5IT48HGD
-version: 458
+version: 2237
 itemType: journalArticle
 title: "The neural architecture of language: Integrative modeling converges on predictive processing"
 language: en

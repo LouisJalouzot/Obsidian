@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2024
 month: 5
 day: 23
@@ -12,7 +10,7 @@ authors:
   - "Sun, Huan"
 generated: true
 key: 9CXMWGAL
-version: 503
+version: 2234
 itemType: conferencePaper
 title: "Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization"
 shortTitle: Grokked Transformers are Implicit Reasoners

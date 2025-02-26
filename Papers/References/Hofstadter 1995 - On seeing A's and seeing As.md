@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 1995
 month: 7
 day: 1
@@ -9,7 +7,7 @@ authors:
   - "Hofstadter, D."
 generated: true
 key: 78E34EHB
-version: 2043
+version: 2263
 itemType: conferencePaper
 title: On seeing A's and seeing As
 url: "https://www.semanticscholar.org/paper/On-seeing-A's-and-seeing-As-Hofstadter/f6a28b85d811ca5791d049fca45f872d12330259"

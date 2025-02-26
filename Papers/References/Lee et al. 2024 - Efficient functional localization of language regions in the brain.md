@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2024
 month: 1
 date: 01/2024
@@ -10,7 +8,7 @@ authors:
   - "Perrachione, Tyler K."
 generated: true
 key: 88T289K7
-version: 2038
+version: 2249
 itemType: journalArticle
 title: Efficient functional localization of language regions in the brain
 publicationTitle: NeuroImage
@@ -23,6 +21,7 @@ ISSN: 10538119
 url: "https://linkinghub.elsevier.com/retrieve/pii/S1053811923006390"
 accessDate: "2024-09-26T13:49:02Z"
 libraryCatalog: Semantic Scholar
+deleted: 1
 collections:
   - ERQKEKFA
 dateAdded: "2024-09-26T13:49:02Z"

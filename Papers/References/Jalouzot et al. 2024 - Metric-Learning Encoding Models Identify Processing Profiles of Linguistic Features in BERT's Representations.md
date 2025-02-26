@@ -1,7 +1,6 @@
 ---
 zoteroTags:
   - Computer Science - Computation and Language
-  - notion
 year: 2024
 month: 2
 day: 18
@@ -16,7 +15,7 @@ authors:
   - "Lakretz, Yair"
 generated: true
 key: PA5J294R
-version: 288
+version: 2239
 itemType: preprint
 title: Metric-Learning Encoding Models Identify Processing Profiles of Linguistic Features in BERT's Representations
 repository: arXiv

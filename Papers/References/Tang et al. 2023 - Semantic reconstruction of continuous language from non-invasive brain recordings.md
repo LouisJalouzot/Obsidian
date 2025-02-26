@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2023
 month: 5
 date: 05/2023
@@ -11,7 +9,7 @@ authors:
   - "Huth, Alexander G."
 generated: true
 key: SUMKIT6M
-version: 228
+version: 2240
 itemType: journalArticle
 title: Semantic reconstruction of continuous language from non-invasive brain recordings
 publicationTitle: Nature Neuroscience

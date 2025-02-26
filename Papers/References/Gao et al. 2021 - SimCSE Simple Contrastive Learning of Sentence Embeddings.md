@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2021
 date: 2021
 authors:
@@ -9,7 +7,7 @@ authors:
   - "Chen, Danqi"
 generated: true
 key: 4WW5R9AR
-version: 1237
+version: 2259
 itemType: journalArticle
 title: "SimCSE: Simple Contrastive Learning of Sentence Embeddings"
 publicationTitle: Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing

@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2020
 date: 2020
 authors:
@@ -12,7 +10,7 @@ authors:
   - "Li, Lei"
 generated: true
 key: 4GQBS92P
-version: 2041
+version: 2255
 itemType: journalArticle
 title: On the Sentence Embeddings from Pre-trained Language Models
 publicationTitle: Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)

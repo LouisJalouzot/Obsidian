@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2020
 month: 11
 day: 9
@@ -11,7 +9,7 @@ authors:
   - "Goodman, Noah D."
 generated: true
 key: B2Z3KF8S
-version: 2038
+version: 2250
 itemType: journalArticle
 title: "Language Through a Prism: A Spectral Approach for Multiscale Language Representations"
 publicationTitle: ArXiv

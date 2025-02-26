@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2021
 month: 12
 date: 12/2021
@@ -12,7 +10,7 @@ authors:
   - "Thirion, Bertrand"
 generated: true
 key: PDH4D7E5
-version: 215
+version: 2240
 itemType: journalArticle
 title: An empirical evaluation of functional alignment using inter-subject decoding
 publicationTitle: NeuroImage
@@ -25,6 +23,7 @@ ISSN: 10538119
 url: "https://linkinghub.elsevier.com/retrieve/pii/S1053811921009563"
 accessDate: "2024-03-17T19:00:51Z"
 libraryCatalog: Semantic Scholar
+deleted: 1
 collections:
   - ERQKEKFA
 dateAdded: "2024-03-17T19:00:52Z"

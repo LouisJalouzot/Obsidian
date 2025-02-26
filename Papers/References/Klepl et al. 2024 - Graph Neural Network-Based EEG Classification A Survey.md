@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2024
 date: 2024
 authors:
@@ -9,7 +7,7 @@ authors:
   - "He, Fei"
 generated: true
 key: 9HTZWKWE
-version: 561
+version: 2232
 itemType: journalArticle
 title: "Graph Neural Network-Based EEG Classification: A Survey"
 publicationTitle: IEEE Transactions on Neural Systems and Rehabilitation Engineering

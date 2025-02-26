@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2024
 month: 1
 day: 3
@@ -16,7 +14,7 @@ authors:
   - "Batista, Aaron P."
 generated: true
 key: HFHCJIJ4
-version: 2045
+version: 2266
 itemType: journalArticle
 title: Dynamical constraints on neural population activity
 language: en

@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2024
 month: 9
 day: 25
@@ -14,7 +12,7 @@ authors:
   - "Hernández-Orallo, José"
 generated: true
 key: P5GZ5GQB
-version: 2038
+version: 2249
 itemType: journalArticle
 title: Larger and more instructable language models become less reliable
 publicationTitle: Nature

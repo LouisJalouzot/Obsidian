@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2022
 month: 6
 day: 9
@@ -17,7 +15,7 @@ authors:
   - "Nastase, Samuel A."
 generated: true
 key: IGSSCNX2
-version: 619
+version: 2246
 itemType: journalArticle
 title: Shared functional specialization in transformer-based language models and the human brain
 language: en

@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2024
 month: 11
 day: 11
@@ -13,7 +11,7 @@ authors:
   - "Wan, Alvin"
 generated: true
 key: BDZMN7S2
-version: 1241
+version: 2260
 itemType: conferencePaper
 title: The Super Weight in Large Language Models
 url: "https://www.semanticscholar.org/paper/The-Super-Weight-in-Large-Language-Models-Yu-Wang/2e5baf6b3a5bfdb5cd7d7ee450296fe222c7c225"

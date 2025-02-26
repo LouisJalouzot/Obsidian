@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2016
 month: 4
 date: 4/2016
@@ -12,7 +10,7 @@ authors:
   - "Gallant, Jack L."
 generated: true
 key: D7VVXDJN
-version: 432
+version: 2238
 itemType: journalArticle
 title: Natural speech reveals the semantic maps that tile human cerebral cortex
 publicationTitle: Nature

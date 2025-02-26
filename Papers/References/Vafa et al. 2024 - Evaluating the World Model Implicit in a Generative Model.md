@@ -3,7 +3,6 @@ zoteroTags:
   - Artificial Intelligence (cs.AI)
   - Computation and Language (cs.CL)
   - "FOS: Computer and information sciences"
-  - notion
 year: 2024
 date: 2024
 authors:
@@ -14,7 +13,7 @@ authors:
   - "Rambachan, Ashesh"
 generated: true
 key: Y6682U4Q
-version: 2040
+version: 2253
 itemType: journalArticle
 title: Evaluating the World Model Implicit in a Generative Model
 DOI: 10.48550/ARXIV.2406.03689

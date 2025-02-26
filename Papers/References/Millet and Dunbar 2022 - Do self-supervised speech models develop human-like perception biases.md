@@ -5,7 +5,6 @@ zoteroTags:
   - "FOS: Computer and information sciences"
   - "FOS: Electrical engineering, electronic engineering, information engineering"
   - Sound (cs.SD)
-  - notion
 year: 2022
 date: 2022
 authors:
@@ -13,7 +12,7 @@ authors:
   - "Dunbar, Ewan"
 generated: true
 key: 2NTJ5629
-version: 856
+version: 2248
 itemType: journalArticle
 title: "Do self-supervised speech models develop human-like perception biases?"
 DOI: 10.48550/ARXIV.2205.15819

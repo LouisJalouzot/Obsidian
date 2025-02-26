@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2021
 month: 10
 date: 10/2021
@@ -9,7 +7,7 @@ authors:
   - "Vaxman, Amir"
 generated: true
 key: YR4RB5JT
-version: 515
+version: 2234
 itemType: journalArticle
 title: Discrete curvature and torsion from cross-ratios
 publicationTitle: Annali di Matematica Pura ed Applicata (1923 -)
@@ -23,6 +21,7 @@ ISSN: "0373-3114, 1618-1891"
 url: "https://link.springer.com/10.1007/s10231-021-01065-x"
 accessDate: "2024-05-31T20:34:38Z"
 libraryCatalog: Semantic Scholar
+deleted: 1
 collections:
   - ERQKEKFA
 dateAdded: "2024-05-31T20:34:38Z"

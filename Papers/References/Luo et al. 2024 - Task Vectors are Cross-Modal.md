@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2024
 month: 10
 day: 29
@@ -11,7 +9,7 @@ authors:
   - "Bar, Amir"
 generated: true
 key: YQCSYSPB
-version: 1304
+version: 2260
 itemType: conferencePaper
 title: Task Vectors are Cross-Modal
 url: "https://www.semanticscholar.org/paper/Task-Vectors-are-Cross-Modal-Luo-Darrell/72c42df94fee54f10166c21ebe7a52b43893fed5"

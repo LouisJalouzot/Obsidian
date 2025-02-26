@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2024
 month: 3
 day: 27
@@ -12,7 +10,7 @@ authors:
   - "Yvert, Blaise"
 generated: true
 key: MQG4EEET
-version: 478
+version: 2236
 itemType: journalArticle
 title: Evidence for common spike-based temporal coding of overt and covert speech in pars triangularis of human Broca’s area
 language: en

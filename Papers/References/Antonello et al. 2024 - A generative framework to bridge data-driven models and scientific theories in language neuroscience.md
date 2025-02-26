@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2024
 month: 10
 day: 1
@@ -15,7 +13,7 @@ authors:
   - "Huth, Alexander"
 generated: true
 key: NSCNVGZF
-version: 2040
+version: 2253
 itemType: conferencePaper
 title: A generative framework to bridge data-driven models and scientific theories in language neuroscience
 url: "https://www.semanticscholar.org/paper/A-generative-framework-to-bridge-data-driven-models-Antonello-Singh/5d0454b1e913770d8de136b7f1b7841f427462e0"

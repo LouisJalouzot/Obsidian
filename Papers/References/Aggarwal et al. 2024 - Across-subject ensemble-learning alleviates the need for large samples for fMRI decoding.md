@@ -4,7 +4,6 @@ zoteroTags:
   - "FOS: Electrical engineering, electronic engineering, information engineering"
   - Image and Video Processing (eess.IV)
   - Machine Learning (cs.LG)
-  - notion
 year: 2024
 date: 2024
 authors:
@@ -13,7 +12,7 @@ authors:
   - "Thirion, Bertrand"
 generated: true
 key: RCC3WQM4
-version: 2093
+version: 2264
 itemType: conferencePaper
 title: Across-subject ensemble-learning alleviates the need for large samples for fMRI decoding
 publisher: arXiv

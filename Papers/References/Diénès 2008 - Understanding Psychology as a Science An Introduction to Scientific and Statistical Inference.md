@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2008
 month: 2
 day: 15
@@ -9,7 +7,7 @@ authors:
   - "Diénès, Z."
 generated: true
 key: 46Y5VI35
-version: 2050
+version: 2261
 itemType: conferencePaper
 title: "Understanding Psychology as a Science: An Introduction to Scientific and Statistical Inference"
 shortTitle: Understanding Psychology as a Science

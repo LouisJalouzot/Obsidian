@@ -3,7 +3,6 @@ zoteroTags:
   - Artificial Intelligence (cs.AI)
   - Computation and Language (cs.CL)
   - "FOS: Computer and information sciences"
-  - notion
 year: 2024
 date: 2024
 authors:
@@ -15,7 +14,7 @@ authors:
   - "Reddy, Siva"
 generated: true
 key: TUAAI3N6
-version: 2042
+version: 2257
 itemType: journalArticle
 title: "LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders"
 DOI: 10.48550/ARXIV.2404.05961

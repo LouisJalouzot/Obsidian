@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2019
 month: 1
 day: 29
@@ -13,7 +11,7 @@ authors:
   - "Mesgarani, Nima"
 generated: true
 key: 9AP8YKZM
-version: 487
+version: 2235
 itemType: journalArticle
 title: Towards reconstructing intelligible speech from the human auditory cortex
 publicationTitle: Scientific Reports

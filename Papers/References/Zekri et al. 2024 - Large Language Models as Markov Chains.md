@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2024
 month: 10
 day: 3
@@ -14,7 +12,7 @@ authors:
   - "Redko, I."
 generated: true
 key: PTJRG99N
-version: 1226
+version: 2259
 itemType: conferencePaper
 title: Large Language Models as Markov Chains
 url: "https://www.semanticscholar.org/paper/Large-Language-Models-as-Markov-Chains-Zekri-Odonnat/0d5dc0baf12635df418d8ee11816f2956b002f64"

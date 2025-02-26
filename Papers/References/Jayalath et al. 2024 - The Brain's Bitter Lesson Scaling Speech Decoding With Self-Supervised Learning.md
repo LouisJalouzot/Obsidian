@@ -2,7 +2,6 @@
 zoteroTags:
   - "FOS: Computer and information sciences"
   - Machine Learning (cs.LG)
-  - notion
 year: 2024
 date: 2024
 authors:
@@ -13,7 +12,7 @@ authors:
   - "Jones, Oiwi Parker"
 generated: true
 key: 368ZRVIE
-version: 2043
+version: 2259
 itemType: journalArticle
 title: "The Brain's Bitter Lesson: Scaling Speech Decoding With Self-Supervised Learning"
 DOI: 10.48550/ARXIV.2406.04328

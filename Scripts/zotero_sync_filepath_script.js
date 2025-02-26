@@ -27,7 +27,11 @@ if (data.date) {
     fp += year.toString();
 }
 fp += ' - ';
-fp += data.title.replace(/[/\\:?!]|\*/g, '').trim();;
+fp += data.title
+    .replace(/[/\\:?!<>"|*~#%&{}[\]+,;=@^`\0\t\n\r\v\f]/g, '') // Remove illegal/problematic chars
+    .replace(/\s+/g, ' ')  // Replace multiple spaces with a single space
+    .replace(/^\s+|\s+$|\.*$/g, '') // Trim spaces and trailing periods
+    .trim();
 data.filename = fp;
 return 'Papers/References/' + fp;
 }

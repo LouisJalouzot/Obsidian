@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2025
 month: 1
 day: 27
@@ -11,7 +9,7 @@ authors:
   - "Murty, N. A. R."
 generated: true
 key: FD32QV3C
-version: 2046
+version: 2268
 itemType: conferencePaper
 title: "TopoNets: High Performing Vision and Language Models with Brain-Like Topography"
 shortTitle: TopoNets

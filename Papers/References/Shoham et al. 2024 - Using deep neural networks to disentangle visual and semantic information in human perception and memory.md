@@ -1,7 +1,6 @@
 ---
 zoteroTags:
   - Human behaviour
-  - notion
 year: 2024
 month: 2
 day: 8
@@ -14,7 +13,7 @@ authors:
   - "Yovel, Galit"
 generated: true
 key: AWDBPSS4
-version: 79
+version: 2243
 itemType: journalArticle
 title: Using deep neural networks to disentangle visual and semantic information in human perception and memory
 publicationTitle: Nature Human Behaviour

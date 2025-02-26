@@ -2,7 +2,6 @@
 zoteroTags:
   - "FOS: Computer and information sciences"
   - Machine Learning (cs.LG)
-  - notion
 year: 2022
 date: 2022
 authors:
@@ -11,7 +10,7 @@ authors:
   - "van Wingen, Guido"
 generated: true
 key: RQAHHLG3
-version: 568
+version: 2231
 itemType: journalArticle
 title: Benchmarking Graph Neural Networks for FMRI analysis
 DOI: 10.48550/ARXIV.2211.08927

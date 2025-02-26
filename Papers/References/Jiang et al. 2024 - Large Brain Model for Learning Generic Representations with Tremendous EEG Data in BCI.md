@@ -2,7 +2,6 @@
 zoteroTags:
   - "FOS: Computer and information sciences"
   - Machine Learning (cs.LG)
-  - notion
 year: 2024
 date: 2024
 authors:
@@ -11,7 +10,7 @@ authors:
   - "Lu, Bao-Liang"
 generated: true
 key: J3XBJDGC
-version: 2043
+version: 2258
 itemType: journalArticle
 title: Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI
 DOI: 10.48550/ARXIV.2405.18765

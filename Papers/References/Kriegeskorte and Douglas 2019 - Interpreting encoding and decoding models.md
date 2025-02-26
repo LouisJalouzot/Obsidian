@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2019
 month: 4
 day: 1
@@ -10,7 +8,7 @@ authors:
   - "Douglas, Pamela K"
 generated: true
 key: K8WJGAZI
-version: 177
+version: 2242
 itemType: journalArticle
 title: Interpreting encoding and decoding models
 publicationTitle: Current Opinion in Neurobiology

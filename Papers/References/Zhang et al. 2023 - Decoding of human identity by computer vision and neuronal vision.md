@@ -6,7 +6,6 @@ zoteroTags:
   - Learning and memory
   - Neural circuits
   - Neuroscience
-  - notion
 year: 2023
 month: 1
 day: 12
@@ -25,7 +24,7 @@ authors:
   - "Fried, Itzhak"
 generated: true
 key: IN2YR6N4
-version: 538
+version: 2232
 itemType: journalArticle
 title: Decoding of human identity by computer vision and neuronal vision
 publicationTitle: Scientific Reports

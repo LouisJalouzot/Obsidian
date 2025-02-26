@@ -9,7 +9,6 @@ zoteroTags:
   - Machine Learning (cs.LG)
   - Neural and Evolutionary Computing (cs.NE)
   - Neurons and Cognition (q-bio.NC)
-  - notion
 year: 2022
 date: 2022
 authors:
@@ -20,7 +19,7 @@ authors:
   - "Yang, Carl"
 generated: true
 key: 4AXGPNVM
-version: 553
+version: 2232
 itemType: journalArticle
 title: "FBNETGEN: Task-aware GNN-based fMRI Analysis via Functional Brain Network Generation"
 DOI: 10.48550/ARXIV.2205.12465

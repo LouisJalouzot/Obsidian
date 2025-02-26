@@ -7,7 +7,6 @@ zoteroTags:
   - Image and Video Processing (eess.IV)
   - Machine Learning (cs.LG)
   - Neurons and Cognition (q-bio.NC)
-  - notion
 year: 2023
 date: 2023
 authors:
@@ -18,7 +17,7 @@ authors:
   - "Lee, Juho"
 generated: true
 key: T4DWHITZ
-version: 731
+version: 2231
 itemType: journalArticle
 title: A Generative Self-Supervised Framework using Functional Connectivity in fMRI Data
 DOI: 10.48550/ARXIV.2312.01994
@@ -29,11 +28,10 @@ rights: "arXiv.org perpetual, non-exclusive license"
 extra: "Publisher: arXiv Version Number: 1"
 collections:
   - ERQKEKFA
-  - GDGNS5HM
 dateAdded: "2024-06-24T16:38:25Z"
 dateModified: "2024-06-24T16:38:30Z"
 super_collections:
-  - GDGNS5HM
+  - ERQKEKFA
 filename: Choi et al. 2023 - A Generative Self-Supervised Framework using Functional Connectivity in fMRI Data
 marker: "[🇿](zotero://select/library/items/T4DWHITZ)"
 ---

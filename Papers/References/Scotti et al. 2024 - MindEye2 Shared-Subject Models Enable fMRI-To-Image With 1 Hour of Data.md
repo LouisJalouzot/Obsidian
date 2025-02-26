@@ -5,7 +5,6 @@ zoteroTags:
   - "FOS: Biological sciences"
   - "FOS: Computer and information sciences"
   - Neurons and Cognition (q-bio.NC)
-  - notion
 year: 2024
 date: 2024
 authors:
@@ -22,7 +21,7 @@ authors:
   - "Abraham, Tanishq Mathew"
 generated: true
 key: EJH6WQEA
-version: 430
+version: 2238
 itemType: journalArticle
 title: "MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data"
 DOI: 10.48550/ARXIV.2403.11207

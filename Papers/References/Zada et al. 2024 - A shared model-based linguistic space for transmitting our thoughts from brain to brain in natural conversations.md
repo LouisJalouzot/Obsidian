@@ -1,7 +1,7 @@
 ---
 year: 2024
-month: 9
-date: 09/2024
+month: 8
+date: 8/2024
 authors:
   - "Zada, Zaid"
   - "Goldstein, Ariel"
@@ -21,26 +21,29 @@ authors:
   - "Nastase, Samuel A."
   - "Hasson, Uri"
 generated: true
-key: ASPLMU8B
-version: 2107
+key: P4S5LQHT
+version: 2248
 itemType: journalArticle
 title: A shared model-based linguistic space for transmitting our thoughts from brain to brain in natural conversations
 publicationTitle: Neuron
-volume: 112
-issue: 18
-pages: 3211-3222.e5
+pages: S0896627324004604
 journalAbbreviation: Neuron
 language: en
 DOI: 10.1016/j.neuron.2024.06.025
 ISSN: 08966273
 url: "https://linkinghub.elsevier.com/retrieve/pii/S0896627324004604"
-accessDate: "2025-02-26T11:13:15Z"
+accessDate: "2024-09-16T13:11:52Z"
 libraryCatalog: Semantic Scholar
+extra: "TLDR: A model-based coupling framework that aligns brain activity in both speaker and listener to a shared embedding space from a large language model (LLM) is developed, indicating that the contextual embeddings learned by LLMs can serve as an explicit numerical model of the shared, context-rich meaning space humans use to communicate their thoughts to one another."
 deleted: 1
-dateAdded: "2025-02-26T11:13:15Z"
-dateModified: "2025-02-26T11:13:15Z"
+collections:
+  - ERQKEKFA
+dateAdded: "2024-09-16T13:11:52Z"
+dateModified: "2025-02-25T10:42:07Z"
+super_collections:
+  - ERQKEKFA
 filename: Zada et al. 2024 - A shared model-based linguistic space for transmitting our thoughts from brain to brain in natural conversations
-marker: "[🇿](zotero://select/library/items/ASPLMU8B)"
+marker: "[🇿](zotero://select/library/items/P4S5LQHT)"
 ---
 
 >[!warning] Warning

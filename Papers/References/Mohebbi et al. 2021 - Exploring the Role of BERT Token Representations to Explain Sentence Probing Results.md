@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2021
 date: 2021
 authors:
@@ -9,7 +7,7 @@ authors:
   - "Pilehvar, Mohammad Taher"
 generated: true
 key: SQ2GCQCH
-version: 393
+version: 2239
 itemType: journalArticle
 title: Exploring the Role of BERT Token Representations to Explain Sentence Probing Results
 publicationTitle: Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing

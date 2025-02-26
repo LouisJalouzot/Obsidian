@@ -5,7 +5,6 @@ zoteroTags:
   - "FOS: Electrical engineering, electronic engineering, information engineering"
   - Machine Learning (cs.LG)
   - Signal Processing (eess.SP)
-  - notion
 year: 2023
 date: 2023
 authors:
@@ -13,7 +12,7 @@ authors:
   - "Holz, Christian"
 generated: true
 key: CE8E3RN6
-version: 621
+version: 2246
 itemType: journalArticle
 title: "Finding Order in Chaos: A Novel Data Augmentation Method for Time Series in Contrastive Learning"
 DOI: 10.48550/ARXIV.2309.13439

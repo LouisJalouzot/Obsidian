@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2019
 month: 11
 date: 11/2019
@@ -9,7 +7,7 @@ authors:
   - "Schwenk, Holger"
 generated: true
 key: G9NLPVGU
-version: 465
+version: 2236
 itemType: journalArticle
 title: Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond
 publicationTitle: Transactions of the Association for Computational Linguistics

@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 1990
 month: 11
 date: 11/1990
@@ -8,7 +6,7 @@ authors:
   - "Smolensky, Paul"
 generated: true
 key: B3XAQ6V2
-version: 860
+version: 2248
 itemType: journalArticle
 title: Tensor product variable binding and the representation of symbolic structures in connectionist systems
 publicationTitle: Artificial Intelligence
@@ -23,6 +21,7 @@ url: "https://linkinghub.elsevier.com/retrieve/pii/000437029090007M"
 accessDate: "2024-09-21T09:31:45Z"
 libraryCatalog: Semantic Scholar
 rights: "https://www.elsevier.com/tdm/userlicense/1.0/"
+deleted: 1
 collections:
   - ERQKEKFA
 dateAdded: "2024-09-21T09:31:45Z"

@@ -3,7 +3,6 @@ zoteroTags:
   - Computation and Language (cs.CL)
   - "FOS: Computer and information sciences"
   - Machine Learning (cs.LG)
-  - notion
 year: 2024
 date: 2024
 authors:
@@ -13,7 +12,7 @@ authors:
   - "Jia, Robin"
 generated: true
 key: PR92CTMH
-version: 2046
+version: 2269
 itemType: journalArticle
 title: Pre-trained Large Language Models Use Fourier Features to Compute Addition
 DOI: 10.48550/ARXIV.2406.03445

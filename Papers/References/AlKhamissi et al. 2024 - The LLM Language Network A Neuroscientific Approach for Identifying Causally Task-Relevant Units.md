@@ -3,7 +3,6 @@ zoteroTags:
   - Computation and Language (cs.CL)
   - "FOS: Computer and information sciences"
   - Machine Learning (cs.LG)
-  - notion
 year: 2024
 date: 2024
 authors:
@@ -13,7 +12,7 @@ authors:
   - "Schrimpf, Martin"
 generated: true
 key: FECSHITT
-version: 2044
+version: 2265
 itemType: journalArticle
 title: "The LLM Language Network: A Neuroscientific Approach for Identifying Causally Task-Relevant Units"
 DOI: 10.48550/ARXIV.2411.02280

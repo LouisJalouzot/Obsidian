@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2024
 month: 12
 day: 11
@@ -29,7 +27,7 @@ authors:
   - "Schwenk, Holger"
 generated: true
 key: APTYULG7
-version: 2043
+version: 2263
 itemType: conferencePaper
 title: "Large Concept Models: Language Modeling in a Sentence Representation Space"
 shortTitle: Large Concept Models

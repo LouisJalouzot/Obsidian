@@ -2,7 +2,6 @@
 zoteroTags:
   - Computer Science - Information Retrieval
   - Computer Science - Machine Learning
-  - notion
 year: 2024
 month: 3
 day: 8
@@ -13,7 +12,7 @@ authors:
   - "Kallus, Nathan"
 generated: true
 key: QRVNHW59
-version: 194
+version: 2241
 itemType: preprint
 title: "Is Cosine-Similarity of Embeddings Really About Similarity?"
 DOI: 10.1145/3589335.3651526

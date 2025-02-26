@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2024
 month: 12
 day: 11
@@ -15,7 +13,7 @@ authors:
   - "Lv, Jinglei"
 generated: true
 key: U3V3667T
-version: 2045
+version: 2266
 itemType: conferencePaper
 title: Predicting Human Brain States with Transformer
 url: "https://www.semanticscholar.org/paper/Predicting-Human-Brain-States-with-Transformer-Sun-Cabezas/cdb93661391c29ed3aa48cfcf14bcd08624be51a"

@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2021
 month: 8
 date: 8/2021
@@ -14,7 +12,7 @@ authors:
   - "Xu, Huan"
 generated: true
 key: P34DV656
-version: 625
+version: 2246
 itemType: conferencePaper
 title: "Time Series Data Augmentation for Deep Learning: A Survey"
 proceedingsTitle: Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence

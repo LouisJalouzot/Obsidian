@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2024
 date: 2024
 authors:
@@ -11,7 +9,7 @@ authors:
   - "Gao, Jianfeng"
 generated: true
 key: B745MNRV
-version: 2042
+version: 2256
 itemType: conferencePaper
 title: "Toward Compositional Behavior in Neural Models: A Survey of Current Views"
 conferenceName: Conference on Empirical Methods in Natural Language Processing

@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2024
 month: 9
 day: 27
@@ -14,7 +12,7 @@ authors:
   - "Wang, Liping"
 generated: true
 key: TG63UVE2
-version: 2038
+version: 2249
 itemType: journalArticle
 title: Mental programming of spatial sequences in working memory in the macaque frontal cortex
 publicationTitle: Science

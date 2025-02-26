@@ -3,7 +3,6 @@ zoteroTags:
   - Artificial Intelligence (cs.AI)
   - "FOS: Computer and information sciences"
   - Machine Learning (cs.LG)
-  - notion
 year: 2024
 date: 2024
 authors:
@@ -12,7 +11,7 @@ authors:
   - "Griffiths, Thomas L."
 generated: true
 key: 3B3RMB5C
-version: 2041
+version: 2254
 itemType: journalArticle
 title: Distilling Symbolic Priors for Concept Learning into Neural Networks
 DOI: 10.48550/ARXIV.2402.07035

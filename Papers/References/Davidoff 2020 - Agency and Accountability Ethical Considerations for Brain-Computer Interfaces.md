@@ -1,13 +1,11 @@
 ---
-zoteroTags:
-  - notion
 year: 2020
 date: 2020
 authors:
   - "Davidoff, Erika J."
 generated: true
 key: T2GWVA8T
-version: 187
+version: 2242
 itemType: journalArticle
 title: "Agency and Accountability: Ethical Considerations for Brain-Computer Interfaces"
 publicationTitle: The Rutgers journal of bioethics

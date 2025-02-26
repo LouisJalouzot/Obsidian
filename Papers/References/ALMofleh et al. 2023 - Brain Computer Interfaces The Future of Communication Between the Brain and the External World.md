@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2023
 month: 6
 day: 19
@@ -14,7 +12,7 @@ authors:
   - "Alshaimi, Ahmed"
 generated: true
 key: QZLY2ESY
-version: 190
+version: 2242
 itemType: journalArticle
 title: "Brain Computer Interfaces: The Future of Communication Between the Brain and the External World"
 publicationTitle: "Science, Engineering and Technology"

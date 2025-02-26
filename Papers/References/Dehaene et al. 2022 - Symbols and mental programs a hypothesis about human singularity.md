@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2022
 month: 9
 date: 09/2022
@@ -12,7 +10,7 @@ authors:
   - "Sablé-Meyer, Mathias"
 generated: true
 key: HNLK8E8K
-version: 2038
+version: 2249
 itemType: journalArticle
 title: "Symbols and mental programs: a hypothesis about human singularity"
 publicationTitle: Trends in Cognitive Sciences
@@ -27,6 +25,7 @@ shortTitle: Symbols and mental programs
 url: "https://linkinghub.elsevier.com/retrieve/pii/S1364661322001413"
 accessDate: "2024-10-01T20:26:19Z"
 libraryCatalog: Semantic Scholar
+deleted: 1
 collections:
   - ERQKEKFA
 dateAdded: "2024-10-01T20:26:19Z"

@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2025
 month: 1
 day: 28
@@ -15,7 +13,7 @@ authors:
   - "Zhang, Tielin"
 generated: true
 key: C23MG55V
-version: 2046
+version: 2268
 itemType: journalArticle
 title: Recurrent neural networks with transient trajectory explain working memory encoding mechanisms
 publicationTitle: Communications Biology

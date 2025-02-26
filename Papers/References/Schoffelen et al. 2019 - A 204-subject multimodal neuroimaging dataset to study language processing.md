@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2019
 month: 4
 day: 3
@@ -14,7 +12,7 @@ authors:
   - "Hagoort, Peter"
 generated: true
 key: TM6CFT54
-version: 2045
+version: 2267
 itemType: journalArticle
 title: A 204-subject multimodal neuroimaging dataset to study language processing
 publicationTitle: Scientific Data

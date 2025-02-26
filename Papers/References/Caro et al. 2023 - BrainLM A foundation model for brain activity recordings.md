@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2023
 month: 9
 day: 13
@@ -22,7 +20,7 @@ authors:
   - "Van Dijk, David"
 generated: true
 key: F8QKN3RM
-version: 1399
+version: 2262
 itemType: journalArticle
 title: "BrainLM: A foundation model for brain activity recordings"
 language: en

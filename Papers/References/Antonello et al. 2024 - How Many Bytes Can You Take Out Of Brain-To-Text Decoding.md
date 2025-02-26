@@ -4,7 +4,6 @@ zoteroTags:
   - Computation and Language (cs.CL)
   - Emerging Technologies (cs.ET)
   - "FOS: Computer and information sciences"
-  - notion
 year: 2024
 date: 2024
 authors:
@@ -15,7 +14,7 @@ authors:
   - "Huth, Alexander"
 generated: true
 key: I3JI89V6
-version: 2043
+version: 2259
 itemType: journalArticle
 title: "How Many Bytes Can You Take Out Of Brain-To-Text Decoding?"
 DOI: 10.48550/ARXIV.2405.14055

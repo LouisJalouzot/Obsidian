@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2023
 month: 9
 day: 20
@@ -10,7 +8,7 @@ authors:
   - "VanRullen, Rufin"
 generated: true
 key: FI8EIY7J
-version: 411
+version: 2238
 itemType: journalArticle
 title: Natural scene reconstruction from fMRI signals using generative latent diffusion
 publicationTitle: Scientific Reports

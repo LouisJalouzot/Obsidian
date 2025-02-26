@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2023
 month: 3
 date: 03/2023
@@ -10,7 +8,7 @@ authors:
   - "Dobs, Katharina"
 generated: true
 key: KWIT7LAK
-version: 2040
+version: 2252
 itemType: journalArticle
 title: Using artificial neural networks to ask ‘why’ questions of minds and brains
 publicationTitle: Trends in Neurosciences
@@ -24,6 +22,7 @@ ISSN: 01662236
 url: "https://linkinghub.elsevier.com/retrieve/pii/S0166223622002624"
 accessDate: "2024-10-25T09:28:47Z"
 libraryCatalog: Semantic Scholar
+deleted: 1
 collections:
   - ERQKEKFA
 dateAdded: "2024-10-25T09:28:47Z"

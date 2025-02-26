@@ -6,7 +6,6 @@ zoteroTags:
   - Image and Video Processing (eess.IV)
   - Machine Learning (cs.LG)
   - Neurons and Cognition (q-bio.NC)
-  - notion
 year: 2023
 date: 2023
 authors:
@@ -19,7 +18,7 @@ authors:
   - "King, Jean-Rémi"
 generated: true
 key: DPTETKWX
-version: 226
+version: 2240
 itemType: journalArticle
 title: Aligning brain functions boosts the decoding of visual semantics in novel subjects
 DOI: 10.48550/ARXIV.2312.06467

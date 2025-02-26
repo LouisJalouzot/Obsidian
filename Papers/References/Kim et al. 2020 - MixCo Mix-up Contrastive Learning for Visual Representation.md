@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2020
 month: 10
 day: 13
@@ -12,7 +10,7 @@ authors:
   - "Yun, Seyoung"
 generated: true
 key: J4DHR4LD
-version: 523
+version: 2233
 itemType: journalArticle
 title: "MixCo: Mix-up Contrastive Learning for Visual Representation"
 publicationTitle: ArXiv

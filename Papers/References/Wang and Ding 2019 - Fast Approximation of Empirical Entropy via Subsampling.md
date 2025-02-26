@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2019
 month: 7
 day: 25
@@ -10,7 +8,7 @@ authors:
   - "Ding, Bailu"
 generated: true
 key: JTLYJTBT
-version: 2043
+version: 2263
 itemType: journalArticle
 title: Fast Approximation of Empirical Entropy via Subsampling
 publicationTitle: "Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining"

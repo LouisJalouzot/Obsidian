@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2024
 month: 10
 day: 30
@@ -15,7 +13,7 @@ authors:
   - "Pavlick, Ellie"
 generated: true
 key: 2KNEN4RC
-version: 2042
+version: 2258
 itemType: conferencePaper
 title: "$100K or 100 Days: Trade-offs when Pre-Training with Academic Resources"
 shortTitle: $100K or 100 Days

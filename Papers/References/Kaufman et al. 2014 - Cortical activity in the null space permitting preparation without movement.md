@@ -2,7 +2,6 @@
 zoteroTags:
   - Motor cortex
   - Premotor cortex
-  - notion
 year: 2014
 month: 3
 date: 2014-03
@@ -13,7 +12,7 @@ authors:
   - "Shenoy, Krishna V."
 generated: true
 key: KCBD3HNR
-version: 2042
+version: 2258
 itemType: journalArticle
 title: "Cortical activity in the null space: permitting preparation without movement"
 publicationTitle: Nature Neuroscience

@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2021
 month: 6
 day: 13
@@ -11,7 +9,7 @@ authors:
   - "Yahav, Eran"
 generated: true
 key: XHHR63WF
-version: 2040
+version: 2254
 itemType: journalArticle
 title: Thinking Like Transformers
 publicationTitle: ArXiv

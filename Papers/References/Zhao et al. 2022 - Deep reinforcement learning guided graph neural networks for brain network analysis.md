@@ -6,7 +6,6 @@ zoteroTags:
   - Machine Learning (cs.LG)
   - Neural and Evolutionary Computing (cs.NE)
   - Neurons and Cognition (q-bio.NC)
-  - notion
 year: 2022
 date: 2022
 authors:
@@ -24,7 +23,7 @@ authors:
   - "He, Lifang"
 generated: true
 key: ZTAZEDCC
-version: 573
+version: 2231
 itemType: journalArticle
 title: Deep reinforcement learning guided graph neural networks for brain network analysis
 DOI: 10.48550/ARXIV.2203.10093

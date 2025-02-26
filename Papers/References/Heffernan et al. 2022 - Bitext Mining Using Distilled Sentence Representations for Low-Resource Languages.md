@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2022
 date: 2022
 authors:
@@ -9,7 +7,7 @@ authors:
   - "Schwenk, Holger"
 generated: true
 key: 5JLJ9SDC
-version: 459
+version: 2236
 itemType: conferencePaper
 title: Bitext Mining Using Distilled Sentence Representations for Low-Resource Languages
 proceedingsTitle: "Findings of the Association for Computational Linguistics: EMNLP 2022"

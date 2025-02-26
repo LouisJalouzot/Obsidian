@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2024
 month: 4
 day: 17
@@ -12,7 +10,7 @@ authors:
   - "Irani, Michal"
 generated: true
 key: 2X9MGW3R
-version: 463
+version: 2236
 itemType: conferencePaper
 title: Functional Brain-to-Brain Transformation with No Shared Data
 url: "https://www.semanticscholar.org/paper/Functional-Brain-to-Brain-Transformation-with-No-Wasserman-Beliy/b4aa934ef66817f71a33c1c97925ea8b2c1c9c74"

@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2017
 month: 10
 day: 25
@@ -12,7 +10,7 @@ authors:
   - "Lopez-Paz, David"
 generated: true
 key: GESXSKWB
-version: 529
+version: 2233
 itemType: journalArticle
 title: "mixup: Beyond Empirical Risk Minimization"
 publicationTitle: ArXiv

@@ -4,7 +4,6 @@ zoteroTags:
   - Computation and Language (cs.CL)
   - "FOS: Computer and information sciences"
   - Machine Learning (cs.LG)
-  - notion
 year: 2024
 date: 2024
 authors:
@@ -18,7 +17,7 @@ authors:
   - "Bertsimas, Dimitris"
 generated: true
 key: IJYQP2VG
-version: 493
+version: 2235
 itemType: journalArticle
 title: Universal Neurons in GPT2 Language Models
 DOI: 10.48550/ARXIV.2401.12181

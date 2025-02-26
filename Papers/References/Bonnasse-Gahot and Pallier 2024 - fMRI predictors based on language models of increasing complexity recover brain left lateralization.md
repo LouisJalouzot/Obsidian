@@ -5,7 +5,6 @@ zoteroTags:
   - "FOS: Biological sciences"
   - "FOS: Computer and information sciences"
   - Neurons and Cognition (q-bio.NC)
-  - notion
 year: 2024
 date: 2024
 authors:
@@ -13,7 +12,7 @@ authors:
   - "Pallier, Christophe"
 generated: true
 key: LNPD8AKV
-version: 2039
+version: 2251
 itemType: journalArticle
 title: fMRI predictors based on language models of increasing complexity recover brain left lateralization
 DOI: 10.48550/ARXIV.2405.17992

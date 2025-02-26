@@ -3,7 +3,6 @@ zoteroTags:
   - Artificial Intelligence (cs.AI)
   - "FOS: Computer and information sciences"
   - Machine Learning (cs.LG)
-  - notion
 year: 2024
 date: 2024
 authors:
@@ -18,7 +17,7 @@ authors:
   - "Lee, Jae-Gil"
 generated: true
 key: W9MBI8Y2
-version: 628
+version: 2246
 itemType: journalArticle
 title: "Universal Time-Series Representation Learning: A Survey"
 DOI: 10.48550/ARXIV.2401.03717

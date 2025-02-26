@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2024
 month: 12
 day: 7
@@ -13,7 +11,7 @@ authors:
   - "King, Jean-R'emi"
 generated: true
 key: 8KCBEQKX
-version: 1381
+version: 2262
 itemType: conferencePaper
 title: A polar coordinate system represents syntax in large language models
 url: "https://www.semanticscholar.org/paper/A-polar-coordinate-system-represents-syntax-in-Diego-Sim'on-D'Ascoli/de1cf0a69f9e33adcf8fd3d33d1197985079129e"

@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2021
 date: 2021
 authors:
@@ -9,7 +7,7 @@ authors:
   - "Chang, Kai-Wei"
 generated: true
 key: K5B83Q74
-version: 2041
+version: 2255
 itemType: conferencePaper
 title: Disentangling Semantics and Syntax in Sentence Embeddings with Pre-trained Language Models
 proceedingsTitle: "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies"

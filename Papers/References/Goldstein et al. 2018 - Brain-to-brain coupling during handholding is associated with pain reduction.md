@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2018
 month: 3
 day: 13
@@ -12,7 +10,7 @@ authors:
   - "Shamay-Tsoory, Simone G."
 generated: true
 key: K4GX7TBB
-version: 845
+version: 2248
 itemType: journalArticle
 title: Brain-to-brain coupling during handholding is associated with pain reduction
 publicationTitle: Proceedings of the National Academy of Sciences

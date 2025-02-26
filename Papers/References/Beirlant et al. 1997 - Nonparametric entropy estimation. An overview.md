@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 1997
 date: 1997
 authors:
@@ -10,7 +8,7 @@ authors:
   - "Denes, I."
 generated: true
 key: 9X5WQRRZ
-version: 2043
+version: 2264
 itemType: conferencePaper
 title: Nonparametric entropy estimation. An overview
 url: "https://www.semanticscholar.org/paper/Nonparametric-entropy-estimation.-An-overview-Beirlant-Dudewicz/14ba9dccf06355d1c6478b843ccb8f56d7374409"

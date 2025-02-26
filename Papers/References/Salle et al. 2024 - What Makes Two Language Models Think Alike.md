@@ -2,7 +2,6 @@
 zoteroTags:
   - Computation and Language (cs.CL)
   - "FOS: Computer and information sciences"
-  - notion
 year: 2024
 date: 2024
 authors:
@@ -13,7 +12,7 @@ authors:
   - "Lakretz, Yair"
 generated: true
 key: H2DH3HCR
-version: 644
+version: 2247
 itemType: journalArticle
 title: "What Makes Two Language Models Think Alike?"
 DOI: 10.48550/ARXIV.2406.12620

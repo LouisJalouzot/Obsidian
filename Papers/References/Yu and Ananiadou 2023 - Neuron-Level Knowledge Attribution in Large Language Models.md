@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2023
 month: 12
 day: 19
@@ -10,7 +8,7 @@ authors:
   - "Ananiadou, Sophia"
 generated: true
 key: CV763ZVG
-version: 636
+version: 2247
 itemType: conferencePaper
 title: Neuron-Level Knowledge Attribution in Large Language Models
 url: "https://www.semanticscholar.org/paper/Neuron-Level-Knowledge-Attribution-in-Large-Models-Yu-Ananiadou/9af3c1be7a4cfd38f10b9373e4623f4b64d467cd"

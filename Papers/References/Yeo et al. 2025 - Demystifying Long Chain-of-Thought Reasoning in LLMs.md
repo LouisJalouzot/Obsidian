@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2025
 month: 2
 day: 5
@@ -13,7 +11,7 @@ authors:
   - "Yue, Xiang"
 generated: true
 key: HUUULNJC
-version: 2046
+version: 2269
 itemType: conferencePaper
 title: Demystifying Long Chain-of-Thought Reasoning in LLMs
 url: "https://www.semanticscholar.org/paper/Demystifying-Long-Chain-of-Thought-Reasoning-in-Yeo-Tong/45e1c99a1c8935bf137c0b51a08a03ffb6821993"

@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2025
 month: 1
 day: 22
@@ -206,7 +204,7 @@ authors:
   - "Zhang, Zhen"
 generated: true
 key: 84AQA88U
-version: 2046
+version: 2268
 itemType: conferencePaper
 title: "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning"
 shortTitle: DeepSeek-R1

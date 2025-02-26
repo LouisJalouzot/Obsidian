@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 1987
 month: 2
 date: 02/1987
@@ -9,7 +7,7 @@ authors:
   - "Dunlap, William P."
 generated: true
 key: TDQSKTYY
-version: 600
+version: 2245
 itemType: journalArticle
 title: "Averaging correlation coefficients: Should Fisher's z transformation be used?"
 publicationTitle: Journal of Applied Psychology

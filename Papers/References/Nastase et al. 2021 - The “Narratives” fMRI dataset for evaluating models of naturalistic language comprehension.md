@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2021
 month: 9
 day: 28
@@ -33,7 +31,7 @@ authors:
   - "Hasson, Uri"
 generated: true
 key: MTUT4MKY
-version: 2045
+version: 2267
 itemType: journalArticle
 title: The “Narratives” fMRI dataset for evaluating models of naturalistic language comprehension
 publicationTitle: Scientific Data

@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2021
 month: 5
 day: 13
@@ -13,7 +11,7 @@ authors:
   - "Shenoy, Krishna V."
 generated: true
 key: 2GBY7R8K
-version: 444
+version: 2237
 itemType: journalArticle
 title: High-performance brain-to-text communication via handwriting
 publicationTitle: Nature

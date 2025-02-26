@@ -9,7 +9,7 @@ authors:
   - "Edlinger, Günter"
 generated: true
 key: ETI7CYWC
-version: 2060
+version: 2125
 itemType: conferencePaper
 title: "Brain-Computer Interface Research: A State-of-the-Art Summary"
 place: "Berlin, Heidelberg"
@@ -23,6 +23,7 @@ url: "https://link.springer.com/10.1007/978-3-642-36083-1"
 accessDate: "2024-03-13T23:04:57Z"
 libraryCatalog: Semantic Scholar
 extra: "DOI: 10.1007/978-3-642-36083-1"
+deleted: 1
 collections:
   - 5D3NLYTP
 dateAdded: "2024-03-13T23:04:58Z"

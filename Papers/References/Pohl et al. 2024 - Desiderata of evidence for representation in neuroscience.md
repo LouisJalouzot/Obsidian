@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2024
 month: 3
 day: 21
@@ -16,7 +14,7 @@ authors:
   - "Ma, Wei Ji"
 generated: true
 key: WHJYJTIA
-version: 1323
+version: 2261
 itemType: conferencePaper
 title: Desiderata of evidence for representation in neuroscience
 url: "https://www.semanticscholar.org/paper/Desiderata-of-evidence-for-representation-in-Pohl-Walker/a0f2d12a10f27993ad97a1351fa0bdb5056ef1dd"

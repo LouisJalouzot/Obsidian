@@ -1,13 +1,11 @@
 ---
-zoteroTags:
-  - notion
 year: 2021
 date: 2021
 authors:
   - "Frank, Stefan"
 generated: true
 key: PRYHGBQT
-version: 603
+version: 2245
 itemType: conferencePaper
 title: Cross-language structural priming in recurrent neural network language models
 conferenceName: Annual Meeting of the Cognitive Science Society

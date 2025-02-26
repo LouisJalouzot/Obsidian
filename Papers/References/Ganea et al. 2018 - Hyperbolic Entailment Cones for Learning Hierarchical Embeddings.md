@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2018
 month: 4
 day: 3
@@ -11,7 +9,7 @@ authors:
   - "Hofmann, Thomas"
 generated: true
 key: WS6SP3EY
-version: 532
+version: 2233
 itemType: conferencePaper
 title: Hyperbolic Entailment Cones for Learning Hierarchical Embeddings
 conferenceName: International Conference on Machine Learning

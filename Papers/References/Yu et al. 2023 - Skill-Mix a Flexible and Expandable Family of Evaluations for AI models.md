@@ -5,7 +5,6 @@ zoteroTags:
   - "FOS: Computer and information sciences"
   - Machine Learning (cs.LG)
   - Neural and Evolutionary Computing (cs.NE)
-  - notion
 year: 2023
 date: 2023
 authors:
@@ -17,7 +16,7 @@ authors:
   - "Arora, Sanjeev"
 generated: true
 key: 5JAVAYFG
-version: 2044
+version: 2265
 itemType: journalArticle
 title: "Skill-Mix: a Flexible and Expandable Family of Evaluations for AI models"
 DOI: 10.48550/ARXIV.2310.17567

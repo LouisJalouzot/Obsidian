@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2017
 month: 7
 date: 07/2017
@@ -11,7 +9,7 @@ authors:
   - "Botvinick, Matthew"
 generated: true
 key: BFGQKJP3
-version: 185
+version: 2242
 itemType: journalArticle
 title: Neuroscience-Inspired Artificial Intelligence
 publicationTitle: Neuron
@@ -25,6 +23,7 @@ ISSN: 08966273
 url: "https://linkinghub.elsevier.com/retrieve/pii/S0896627317305093"
 accessDate: "2024-03-11T15:12:34Z"
 libraryCatalog: Semantic Scholar
+deleted: 1
 collections:
   - ERQKEKFA
 dateAdded: "2024-03-11T15:12:34Z"

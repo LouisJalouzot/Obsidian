@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2025
 month: 2
 day: 7
@@ -9,7 +7,7 @@ authors:
   - "Youngblood, Mason"
 generated: true
 key: A9YA8B9H
-version: 2047
+version: 2270
 itemType: journalArticle
 title: Language-like efficiency in whale communication
 publicationTitle: Science Advances

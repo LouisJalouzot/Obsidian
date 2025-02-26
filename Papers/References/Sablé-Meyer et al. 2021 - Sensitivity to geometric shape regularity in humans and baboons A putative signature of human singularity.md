@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2021
 month: 4
 day: 20
@@ -14,7 +12,7 @@ authors:
   - "Dehaene, Stanislas"
 generated: true
 key: NSNU2GIC
-version: 2038
+version: 2250
 itemType: journalArticle
 title: "Sensitivity to geometric shape regularity in humans and baboons: A putative signature of human singularity"
 publicationTitle: Proceedings of the National Academy of Sciences

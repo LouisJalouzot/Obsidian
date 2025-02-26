@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 authors:
   - "Pink, Mathis"
   - "Vo, Vy A."
@@ -14,7 +12,7 @@ authors:
   - "Toneva, Mariya"
 generated: true
 key: 4DQ4Q2M8
-version: 2041
+version: 2256
 itemType: conferencePaper
 title: Testing Memory Capabilities in Large Language Models with the...
 language: en
@@ -27,7 +25,7 @@ dateAdded: "2024-11-11T22:23:40Z"
 dateModified: "2024-11-11T22:24:02Z"
 super_collections:
   - ERQKEKFA
-filename: Pink et al.  - Testing Memory Capabilities in Large Language Models with the...
+filename: Pink et al.  - Testing Memory Capabilities in Large Language Models with the
 marker: "[🇿](zotero://select/library/items/4DQ4Q2M8)"
 ---
 
@@ -37,7 +35,7 @@ marker: "[🇿](zotero://select/library/items/4DQ4Q2M8)"
 > [!title] Testing Memory Capabilities in Large Language Models with the...
 
 > [!example] File
-> [Pink et al.  - Testing Memory Capabilities in Large Language Models with the...](Pink%20et%20al.%20%20-%20Testing%20Memory%20Capabilities%20in%20Large%20Language%20Models%20with%20the....pdf)
+> [Pink et al.  - Testing Memory Capabilities in Large Language Models with the](Pink%20et%20al.%20%20-%20Testing%20Memory%20Capabilities%20in%20Large%20Language%20Models%20with%20the.pdf)
 
 > [!abstract] Abstract
 > Many benchmarks focus on evaluating Large Language Models (LLMs) on facts and semantic relations, primarily assessing their semantic memory. However, some memories in language are linked to their...

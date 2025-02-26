@@ -2,14 +2,13 @@
 zoteroTags:
   - Computation and Language (cs.CL)
   - "FOS: Computer and information sciences"
-  - notion
 year: 2024
 date: 2024
 authors:
   - "Murphy, Elliot"
 generated: true
 key: 6BQKA5EX
-version: 2044
+version: 2265
 itemType: journalArticle
 title: "Shadow of the (Hierarchical) Tree: Reconciling Symbolic and Predictive Components of the Neural Code for Syntax"
 DOI: 10.48550/ARXIV.2412.01276

@@ -4,7 +4,6 @@ zoteroTags:
   - Computation and Language (cs.CL)
   - "FOS: Computer and information sciences"
   - Machine Learning (cs.LG)
-  - notion
 year: 2024
 date: 2024
 authors:
@@ -22,7 +21,7 @@ authors:
   - "Guestrin, Carlos"
 generated: true
 key: DLGHSJFK
-version: 853
+version: 2248
 itemType: journalArticle
 title: "Learning to (Learn at Test Time): RNNs with Expressive Hidden States"
 DOI: 10.48550/ARXIV.2407.04620

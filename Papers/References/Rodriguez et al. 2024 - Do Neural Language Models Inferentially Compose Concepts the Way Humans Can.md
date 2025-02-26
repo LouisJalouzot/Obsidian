@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2024
 date: 2024
 authors:
@@ -9,7 +7,7 @@ authors:
   - "Pylkkänen, L."
 generated: true
 key: GD8IJKAR
-version: 490
+version: 2235
 itemType: conferencePaper
 title: "Do Neural Language Models Inferentially Compose Concepts the Way Humans Can?"
 conferenceName: International Conference on Language Resources and Evaluation

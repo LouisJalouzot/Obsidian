@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2019
 month: 7
 date: 07/2019
@@ -11,7 +9,7 @@ authors:
   - "Pitkow, Xaq"
 generated: true
 key: SVW3VT2A
-version: 499
+version: 2234
 itemType: journalArticle
 title: Dynamic Brain Interactions during Picture Naming
 publicationTitle: eneuro

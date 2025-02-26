@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2021
 date: 2021
 authors:
@@ -9,7 +7,7 @@ authors:
   - "Tawil, Abdel-Rahman"
 generated: true
 key: FG3P5TA9
-version: 2040
+version: 2253
 itemType: conferencePaper
 title: "Neurosymbolic Spike Concept Learner towards Neuromorphic General Intelligence:"
 proceedingsTitle: Proceedings of the 13th International Conference on Agents and Artificial Intelligence
@@ -23,6 +21,7 @@ shortTitle: Neurosymbolic Spike Concept Learner towards Neuromorphic General Int
 url: "https://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0010339911681176"
 accessDate: "2024-10-25T09:31:23Z"
 libraryCatalog: Semantic Scholar
+deleted: 1
 collections:
   - ERQKEKFA
 dateAdded: "2024-10-25T09:31:23Z"

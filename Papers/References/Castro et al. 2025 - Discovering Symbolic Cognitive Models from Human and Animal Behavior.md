@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2025
 month: 2
 day: 6
@@ -25,7 +23,7 @@ authors:
   - "Stachenfeld, Kimberly L"
 generated: true
 key: SSUXQG2V
-version: 2046
+version: 2269
 itemType: journalArticle
 title: Discovering Symbolic Cognitive Models from Human and Animal Behavior
 language: en

@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2024
 month: 11
 day: 26
@@ -11,7 +9,7 @@ authors:
   - "Naselaris, Thomas"
 generated: true
 key: 9VULY4ZA
-version: 1355
+version: 2261
 itemType: journalArticle
 title: Variation in the geometry of concept manifolds across human visual cortex
 language: en

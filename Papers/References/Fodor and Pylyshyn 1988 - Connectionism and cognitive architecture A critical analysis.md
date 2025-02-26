@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 1988
 month: 3
 date: 3/1988
@@ -9,7 +7,7 @@ authors:
   - "Pylyshyn, Zenon W."
 generated: true
 key: BP6Q9AUJ
-version: 864
+version: 2249
 itemType: journalArticle
 title: "Connectionism and cognitive architecture: A critical analysis"
 publicationTitle: Cognition
@@ -25,6 +23,7 @@ url: "https://linkinghub.elsevier.com/retrieve/pii/0010027788900315"
 accessDate: "2024-09-21T09:40:20Z"
 libraryCatalog: Semantic Scholar
 rights: "https://www.elsevier.com/tdm/userlicense/1.0/"
+deleted: 1
 collections:
   - ERQKEKFA
 dateAdded: "2024-09-21T09:40:20Z"

@@ -5,7 +5,6 @@ zoteroTags:
   - "FOS: Biological sciences"
   - "FOS: Computer and information sciences"
   - Neurons and Cognition (q-bio.NC)
-  - notion
 year: 2023
 date: 2023
 authors:
@@ -23,7 +22,7 @@ authors:
   - "Abraham, Tanishq Mathew"
 generated: true
 key: 7EABSVPU
-version: 537
+version: 2232
 itemType: journalArticle
 title: "Reconstructing the Mind's Eye: fMRI-to-Image with Contrastive Learning and Diffusion Priors"
 DOI: 10.48550/ARXIV.2305.18274

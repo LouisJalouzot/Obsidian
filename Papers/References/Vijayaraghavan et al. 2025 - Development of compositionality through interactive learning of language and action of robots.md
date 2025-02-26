@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2025
 month: 1
 day: 22
@@ -12,7 +10,7 @@ authors:
   - "Tani, Jun"
 generated: true
 key: SFSSM2HY
-version: 2045
+version: 2267
 itemType: journalArticle
 title: Development of compositionality through interactive learning of language and action of robots
 publicationTitle: Science Robotics

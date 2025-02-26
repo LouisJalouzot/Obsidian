@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2018
 month: 12
 day: 20
@@ -12,7 +10,7 @@ authors:
   - "Smolensky, P."
 generated: true
 key: NZRZJ9KS
-version: 2041
+version: 2254
 itemType: journalArticle
 title: RNNs Implicitly Implement Tensor Product Representations
 publicationTitle: ArXiv

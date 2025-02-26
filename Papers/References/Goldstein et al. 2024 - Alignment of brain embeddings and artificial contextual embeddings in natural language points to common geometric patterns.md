@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2024
 month: 3
 day: 30
@@ -31,7 +29,7 @@ authors:
   - "Hasson, Uri"
 generated: true
 key: WN47T926
-version: 2106
+version: 2233
 itemType: journalArticle
 title: Alignment of brain embeddings and artificial contextual embeddings in natural language points to common geometric patterns
 publicationTitle: Nature Communications

@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2024
 month: 6
 day: 17
@@ -14,7 +12,7 @@ authors:
   - "Duncan, James S."
 generated: true
 key: CG9W22XK
-version: 564
+version: 2231
 itemType: conferencePaper
 title: "STNAGNN: Spatiotemporal Node Attention Graph Neural Network for Task-based fMRI Analysis"
 shortTitle: STNAGNN

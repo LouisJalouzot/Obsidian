@@ -1,13 +1,11 @@
 ---
-zoteroTags:
-  - notion
 authors:
   - "Ferrante, Matteo"
   - "Toschi, Nicola"
   - "Huth, Alexander"
 generated: true
 key: CXWEQE6A
-version: 2039
+version: 2252
 itemType: conferencePaper
 title: Language decoding from human brain activity via contrastive learning
 language: en

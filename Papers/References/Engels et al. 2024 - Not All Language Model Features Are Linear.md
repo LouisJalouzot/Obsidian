@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2024
 month: 5
 day: 23
@@ -13,7 +11,7 @@ authors:
   - "Tegmark, Max"
 generated: true
 key: M635JMPU
-version: 511
+version: 2234
 itemType: conferencePaper
 title: Not All Language Model Features Are Linear
 url: "https://www.semanticscholar.org/paper/Not-All-Language-Model-Features-Are-Linear-Engels-Liao/3496e417dd6ab6ccb18b801158fc76e065fe266a"

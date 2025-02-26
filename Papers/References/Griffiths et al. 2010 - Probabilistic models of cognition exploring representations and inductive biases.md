@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2010
 month: 8
 date: 8/2010
@@ -12,7 +10,7 @@ authors:
   - "Tenenbaum, Joshua B."
 generated: true
 key: QDWJL7WK
-version: 871
+version: 2249
 itemType: journalArticle
 title: "Probabilistic models of cognition: exploring representations and inductive biases"
 publicationTitle: Trends in Cognitive Sciences
@@ -28,6 +26,7 @@ url: "https://linkinghub.elsevier.com/retrieve/pii/S1364661310001129"
 accessDate: "2024-09-21T09:43:47Z"
 libraryCatalog: Semantic Scholar
 rights: "https://www.elsevier.com/tdm/userlicense/1.0/"
+deleted: 1
 collections:
   - ERQKEKFA
 dateAdded: "2024-09-21T09:43:47Z"

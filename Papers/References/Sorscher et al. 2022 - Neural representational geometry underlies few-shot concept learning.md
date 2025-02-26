@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2022
 month: 10
 day: 25
@@ -11,7 +9,7 @@ authors:
   - "Sompolinsky, Haim"
 generated: true
 key: N2FX52M4
-version: 2042
+version: 2257
 itemType: journalArticle
 title: Neural representational geometry underlies few-shot concept learning
 publicationTitle: Proceedings of the National Academy of Sciences
@@ -25,6 +23,7 @@ ISSN: "0027-8424, 1091-6490"
 url: "https://pnas.org/doi/10.1073/pnas.2200800119"
 accessDate: "2024-11-14T15:02:13Z"
 libraryCatalog: Semantic Scholar
+deleted: 1
 collections:
   - ERQKEKFA
 dateAdded: "2024-11-14T15:02:13Z"

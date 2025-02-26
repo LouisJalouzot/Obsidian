@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2025
 month: 1
 date: 1/2025
@@ -12,7 +10,7 @@ authors:
   - "Meng, Ming"
 generated: true
 key: E87XTINA
-version: 2045
+version: 2266
 itemType: journalArticle
 title: Imageless imagery in aphantasia revealed by early visual cortex decoding
 publicationTitle: Current Biology
@@ -24,6 +22,7 @@ ISSN: 09609822
 url: "https://linkinghub.elsevier.com/retrieve/pii/S096098222401652X"
 accessDate: "2025-01-18T11:26:20Z"
 libraryCatalog: Semantic Scholar
+deleted: 1
 collections:
   - ERQKEKFA
 dateAdded: "2025-01-18T11:26:20Z"

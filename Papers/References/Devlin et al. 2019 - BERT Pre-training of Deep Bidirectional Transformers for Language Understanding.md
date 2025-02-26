@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2019
 date: 2019
 authors:
@@ -10,7 +8,7 @@ authors:
   - "Toutanova, Kristina"
 generated: true
 key: EN2V8BHK
-version: 2041
+version: 2255
 itemType: conferencePaper
 title: "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
 proceedingsTitle: Proceedings of the 2019 Conference of the North

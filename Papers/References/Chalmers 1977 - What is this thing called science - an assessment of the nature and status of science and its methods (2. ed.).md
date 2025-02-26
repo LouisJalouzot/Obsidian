@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 1977
 month: 9
 day: 1
@@ -9,7 +7,7 @@ authors:
   - "Chalmers, A."
 generated: true
 key: S5YD4564
-version: 2058
+version: 2262
 itemType: conferencePaper
 title: "What is this thing called science? - an assessment of the nature and status of science and its methods (2. ed.)"
 conferenceName: UQP nonfiction

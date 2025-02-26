@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 1986
 date: 1986
 authors:
@@ -9,7 +7,7 @@ authors:
   - "undefined, undefined"
 generated: true
 key: 99U2WWSZ
-version: 2055
+version: 2262
 itemType: conferencePaper
 title: "Parallel Distributed Processing: Explorations in the Microstructure of Cognition: Foundations"
 publisher: The MIT Press

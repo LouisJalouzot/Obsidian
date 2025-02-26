@@ -1,15 +1,13 @@
 ---
-zoteroTags:
-  - notion
 year: 2013
 date: 2013
 authors:
   - "Lasseck, Mario"
 generated: true
 key: K23U8D46
-version: 2039
+version: 2251
 itemType: conferencePaper
-title: "Bird Song Classification in Field Recordings: Winning Solution for NIPS4B 2013 Competition *"
+title: "Bird Song Classification in Field Recordings: Winning Solution for NIPS4B 2013 Competition"
 shortTitle: Bird Song Classification in Field Recordings
 url: "https://www.semanticscholar.org/paper/Bird-Song-Classification-in-Field-Recordings%3A-for-*-Lasseck/95e0623c25126610014820dd7a04207a1fce900a"
 accessDate: "2024-10-11T08:34:32Z"
@@ -17,7 +15,7 @@ libraryCatalog: Semantic Scholar
 collections:
   - ERQKEKFA
 dateAdded: "2024-10-11T08:34:32Z"
-dateModified: "2024-10-11T08:35:53Z"
+dateModified: "2025-02-26T13:29:17Z"
 super_collections:
   - ERQKEKFA
 filename: Lasseck 2013 - Bird Song Classification in Field Recordings Winning Solution for NIPS4B 2013 Competition
@@ -27,7 +25,7 @@ marker: "[🇿](zotero://select/library/items/K23U8D46)"
 >[!warning] Warning
 > This note should not be modified as it can be overwritten by the plugin which generated it
 
-> [!title] Bird Song Classification in Field Recordings: Winning Solution for NIPS4B 2013 Competition *
+> [!title] Bird Song Classification in Field Recordings: Winning Solution for NIPS4B 2013 Competition
 
 > [!example] File
 > [Lasseck 2013 - Bird Song Classification in Field Recordings Winning Solution for NIPS4B 2013 Competition](Lasseck%202013%20-%20Bird%20Song%20Classification%20in%20Field%20Recordings%20Winning%20Solution%20for%20NIPS4B%202013%20Competition.pdf)

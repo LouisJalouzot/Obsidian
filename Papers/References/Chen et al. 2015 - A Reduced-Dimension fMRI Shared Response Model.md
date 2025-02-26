@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2015
 month: 12
 day: 7
@@ -14,7 +12,7 @@ authors:
   - "Ramadge, P."
 generated: true
 key: MPX9KCCE
-version: 753
+version: 2245
 itemType: conferencePaper
 title: A Reduced-Dimension fMRI Shared Response Model
 conferenceName: Neural Information Processing Systems

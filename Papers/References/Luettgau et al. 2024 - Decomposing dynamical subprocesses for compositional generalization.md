@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2024
 month: 11
 day: 12
@@ -15,7 +13,7 @@ authors:
   - "Dolan, Raymond J."
 generated: true
 key: IDF8BQSF
-version: 2044
+version: 2266
 itemType: journalArticle
 title: Decomposing dynamical subprocesses for compositional generalization
 publicationTitle: Proceedings of the National Academy of Sciences

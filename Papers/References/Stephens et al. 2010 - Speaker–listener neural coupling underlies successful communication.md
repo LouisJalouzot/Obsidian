@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2010
 month: 8
 day: 10
@@ -11,7 +9,7 @@ authors:
   - "Hasson, Uri"
 generated: true
 key: PNZC8U3C
-version: 804
+version: 2247
 itemType: journalArticle
 title: Speaker–listener neural coupling underlies successful communication
 publicationTitle: Proceedings of the National Academy of Sciences

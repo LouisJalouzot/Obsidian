@@ -4,7 +4,6 @@ zoteroTags:
   - "FOS: Computer and information sciences"
   - Neural and Evolutionary Computing (cs.NE)
   - Symbolic Computation (cs.SC)
-  - notion
 year: 2022
 date: 2022
 authors:
@@ -15,7 +14,7 @@ authors:
   - "Gao, Jianfeng"
 generated: true
 key: I749LXPU
-version: 2040
+version: 2252
 itemType: journalArticle
 title: "Neurocompositional computing: From the Central Paradox of Cognition to a new generation of AI systems"
 DOI: 10.48550/ARXIV.2205.01128

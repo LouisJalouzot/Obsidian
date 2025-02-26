@@ -10,7 +10,7 @@ authors:
   - "Fried, Itzhak"
 generated: true
 key: IIEZGZ7Q
-version: 2038
+version: 2131
 itemType: journalArticle
 title: Single-cell activity in human STG during perception of phonemes is organized according to manner of articulation
 publicationTitle: NeuroImage
@@ -23,6 +23,7 @@ ISSN: 10538119
 url: "https://linkinghub.elsevier.com/retrieve/pii/S1053811920309848"
 accessDate: "2024-09-02T20:22:16Z"
 libraryCatalog: Semantic Scholar
+deleted: 1
 collections:
   - ERQKEKFA
 dateAdded: "2024-09-02T20:22:16Z"

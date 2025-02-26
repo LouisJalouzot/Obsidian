@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2024
 month: 10
 day: 15
@@ -14,7 +12,7 @@ authors:
   - "Schrimpf, Martin"
 generated: true
 key: QESBCP6T
-version: 2039
+version: 2252
 itemType: conferencePaper
 title: "TopoLM: brain-like spatio-functional organization in a topographic language model"
 shortTitle: TopoLM

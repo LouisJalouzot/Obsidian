@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2020
 month: 7
 day: 4
@@ -10,7 +8,7 @@ authors:
   - "King, Jean-Remi"
 generated: true
 key: HHCY9ET9
-version: 453
+version: 2237
 itemType: journalArticle
 title: "Language processing in brains and deep neural networks: computational convergence and its limits"
 language: en

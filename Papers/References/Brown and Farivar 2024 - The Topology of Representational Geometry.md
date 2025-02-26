@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2024
 month: 2
 day: 21
@@ -10,7 +8,7 @@ authors:
   - "Farivar, Reza"
 generated: true
 key: ZPAPX8SX
-version: 79
+version: 2244
 itemType: preprint
 title: The Topology of Representational Geometry
 repository: bioRxiv

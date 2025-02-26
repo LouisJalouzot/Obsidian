@@ -2,7 +2,6 @@
 zoteroTags:
   - "FOS: Computer and information sciences"
   - Methodology (stat.ME)
-  - notion
 year: 2023
 month: 12
 date: 2023-12
@@ -13,7 +12,7 @@ authors:
   - "Neuvial, Pierre"
 generated: true
 key: ZRSXRN76
-version: 134
+version: 2243
 itemType: conferencePaper
 title: False Discovery Proportion control for aggregated Knockoffs
 proceedingsTitle: NeurIPS 2023 – 37th Conference on Neural Information Processing Systems

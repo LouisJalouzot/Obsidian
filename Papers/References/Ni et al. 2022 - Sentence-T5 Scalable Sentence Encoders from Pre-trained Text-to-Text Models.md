@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2022
 date: 2022
 authors:
@@ -13,7 +11,7 @@ authors:
   - "Yang, Yinfei"
 generated: true
 key: VRES8IAI
-version: 2041
+version: 2255
 itemType: journalArticle
 title: "Sentence-T5: Scalable Sentence Encoders from Pre-trained Text-to-Text Models"
 publicationTitle: "Findings of the Association for Computational Linguistics: ACL 2022"

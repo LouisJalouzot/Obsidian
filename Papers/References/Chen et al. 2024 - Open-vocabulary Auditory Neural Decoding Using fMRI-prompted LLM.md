@@ -3,7 +3,6 @@ zoteroTags:
   - Computation and Language (cs.CL)
   - "FOS: Computer and information sciences"
   - Human-Computer Interaction (cs.HC)
-  - notion
 year: 2024
 date: 2024
 authors:
@@ -14,7 +13,7 @@ authors:
   - "He, Huiguang"
 generated: true
 key: SY7VBR2P
-version: 2043
+version: 2258
 itemType: journalArticle
 title: Open-vocabulary Auditory Neural Decoding Using fMRI-prompted LLM
 DOI: 10.48550/ARXIV.2405.07840

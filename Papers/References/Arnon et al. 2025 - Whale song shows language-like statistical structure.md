@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2025
 month: 2
 day: 7
@@ -14,7 +12,7 @@ authors:
   - "Garland, Ellen C."
 generated: true
 key: YQLQBU8F
-version: 2046
+version: 2269
 itemType: journalArticle
 title: Whale song shows language-like statistical structure
 publicationTitle: Science

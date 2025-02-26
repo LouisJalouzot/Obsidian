@@ -2,7 +2,6 @@
 zoteroTags:
   - "FOS: Computer and information sciences"
   - Machine Learning (cs.LG)
-  - notion
 year: 2022
 date: 2022
 authors:
@@ -24,7 +23,7 @@ authors:
   - "Olah, Christopher"
 generated: true
 key: 2RBXG8SM
-version: 1349
+version: 2261
 itemType: journalArticle
 title: Toy Models of Superposition
 DOI: 10.48550/ARXIV.2209.10652
@@ -33,6 +32,7 @@ accessDate: "2024-12-05T14:53:15Z"
 libraryCatalog: Semantic Scholar
 rights: "arXiv.org perpetual, non-exclusive license"
 extra: "Publisher: arXiv Version Number: 1"
+deleted: 1
 collections:
   - ERQKEKFA
 dateAdded: "2024-12-05T14:53:15Z"

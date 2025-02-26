@@ -1,6 +1,4 @@
 ---
-zoteroTags:
-  - notion
 year: 2021
 month: 11
 day: 23
@@ -13,7 +11,7 @@ authors:
   - "Reichart, Roi"
 generated: true
 key: 5Q748PNC
-version: 448
+version: 2237
 itemType: journalArticle
 title: Fine-tuning of deep language models as a computational framework of modeling listeners’ perspective during language comprehension
 language: en

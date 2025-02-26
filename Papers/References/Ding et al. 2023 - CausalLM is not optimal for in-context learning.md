@@ -3,7 +3,6 @@ zoteroTags:
   - Computation and Language (cs.CL)
   - "FOS: Computer and information sciences"
   - Machine Learning (cs.LG)
-  - notion
 year: 2023
 date: 2023
 authors:
@@ -14,7 +13,7 @@ authors:
   - "Soricut, Radu"
 generated: true
 key: CH7GI5MW
-version: 2042
+version: 2257
 itemType: journalArticle
 title: CausalLM is not optimal for in-context learning
 DOI: 10.48550/ARXIV.2308.06912
