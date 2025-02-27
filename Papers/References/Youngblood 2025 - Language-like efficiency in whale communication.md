@@ -44,5 +44,3 @@ marker: "[🇿](zotero://select/library/items/A9YA8B9H)"
 >           , 
 >             Whale vocalizations follow efficiency rules seen in human language, revealing striking similarities in communication systems.
 
-[TLDR] The results of this study suggest that the vocalizations of many cetacean species have undergone compression for increased efficiency in time.
-

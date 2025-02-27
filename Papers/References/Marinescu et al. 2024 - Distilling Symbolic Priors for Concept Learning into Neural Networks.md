@@ -41,7 +41,3 @@ marker: "[🇿](zotero://select/library/items/3B3RMB5C)"
 > [!abstract] Abstract
 > Humans can learn new concepts from a small number of examples by drawing on their inductive biases. These inductive biases have previously been captured by using Bayesian models defined over symbolic hypothesis spaces. Is it possible to create a neural network that displays the same inductive biases? We show that inductive biases that enable rapid concept learning can be instantiated in artificial neural networks by distilling a prior distribution from a symbolic Bayesian model via meta-learning, an approach for extracting the common structure from a set of tasks. By generating the set of tasks used in meta-learning from the prior distribution of a Bayesian model, we are able to transfer that prior into a neural network. We use this approach to create a neural network with an inductive bias towards concepts expressed as short logical formulas. Analyzing results from previous behavioral experiments in which people learned logical concepts from a few examples, we find that our meta-trained models are highly aligned with human performance.
 
-## Other
-
-8 pages, 6 figures, 4 tables
-

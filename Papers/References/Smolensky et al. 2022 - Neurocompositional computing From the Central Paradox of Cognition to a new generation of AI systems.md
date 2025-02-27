@@ -45,7 +45,3 @@ marker: "[🇿](zotero://select/library/items/I749LXPU)"
 > [!abstract] Abstract
 > What explains the dramatic progress from 20th-century to 21st-century AI, and how can the remaining limitations of current AI be overcome? The widely accepted narrative attributes this progress to massive increases in the quantity of computational and data resources available to support statistical learning in deep artificial neural networks. We show that an additional crucial factor is the development of a new type of computation. Neurocompositional computing adopts two principles that must be simultaneously respected to enable human-level cognition: the principles of Compositionality and Continuity. These have seemed irreconcilable until the recent mathematical discovery that compositionality can be realized not only through discrete methods of symbolic computing, but also through novel forms of continuous neural computing. The revolutionary recent progress in AI has resulted from the use of limited forms of neurocompositional computing. New, deeper forms of neurocompositional computing create AI systems that are more robust, accurate, and comprehensible.
 
-## Other
-
-21 pages, 6 figures. For a general AI audience: to appear in AI Magazine. A more extensive presentation of this work is "Neurocompositional computing in human and machine intelligence: A tutorial", Microsoft Technical Report MSR-TR-2022-5; see https://www.microsoft.com/en-us/research/publication/neurocompositional-computing-in-human-and-machine-intelligence-a-tutorial/
-

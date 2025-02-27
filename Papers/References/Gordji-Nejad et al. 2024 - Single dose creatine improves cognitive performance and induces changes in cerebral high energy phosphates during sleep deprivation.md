@@ -55,14 +55,3 @@ marker: "[🇿](zotero://select/library/items/BL7MXHHK)"
 >               1
 >               H-MRS, and cognitive tests were performed each at evening baseline, 3, 5.5, and 7.5 h after single dose creatine (0.35 g/kg) or placebo during sub-total 21 h sleep deprivation (SD). Our results show that creatine induces changes in PCr/Pi, ATP, tCr/tNAA, prevents a drop in pH level, and improves cognitive performance and processing speed. These outcomes suggest that a high single dose of creatine can partially reverse metabolic alterations and fatigue-related cognitive deterioration.
 
-# Annotations  
-(2/14/2025, 3:40:06 PM)
-
-“Single dose creatine improves cognitive performance and induces changes in cerebral high energy phosphates during sleep deprivation” (Gordji-Nejad et al., 2024, p. 1)
-
-Test
-
-Test
-
-Test
-

@@ -40,7 +40,6 @@ marker: "[🇿](zotero://select/library/items/RCC3WQM4)"
 > [!abstract] Abstract
 > Decoding cognitive states from functional magnetic resonance imaging is central to understanding the functional organization of the brain. Within-subject decoding avoids between-subject correspondence problems but requires large sample sizes to make accurate predictions; obtaining such large sample sizes is both challenging and expensive. Here, we investigate an ensemble approach to decoding that combines the classifiers trained on data from other subjects to decode cognitive states in a new subject. We compare it with the conventional decoding approach on five different datasets and cognitive tasks. We find that it outperforms the conventional approach by up to 20% in accuracy, especially for datasets with limited per-subject data. The ensemble approach is particularly advantageous when the classifier is trained in voxel space. Furthermore, a Multi-layer Perceptron turns out to be a good default choice as an ensemble method. These results show that the pre-training strategy reduces the need for large per-subject data.
 
-## Other
+[Aggarwal et al. 2024 - Across-subject ensemble-learning alleviates the need for large samples for fMRI decoding](/Papers/PDFs/Aggarwal%20et%20al.%202024%20-%20Across-subject%20ensemble-learning%20alleviates%20the%20need%20for%20large%20samples%20for%20fMRI%20decoding.pdf)
 
-Provisional acceptance notification at MICCAI 20024 was received on Mon, Jun 17, 6:29 PM CEST (UTC+2)
 

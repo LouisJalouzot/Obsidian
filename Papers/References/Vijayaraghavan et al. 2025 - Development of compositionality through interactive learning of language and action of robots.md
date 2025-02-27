@@ -47,5 +47,3 @@ marker: "[🇿](zotero://select/library/items/SFSSM2HY)"
 >           , 
 >             Generalization in learning verb-noun compositions improves significantly with increased training task variations.
 
-[TLDR] This work proposes a brain-inspired neural network model that integrates vision, proprioception, and language into a framework of predictive coding and active inference on the basis of the free-energy principle and shows that generalization in learning to unlearned verb-noun compositions is significantly enhanced when training variations of task composition are increased.
-

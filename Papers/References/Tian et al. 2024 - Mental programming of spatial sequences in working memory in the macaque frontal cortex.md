@@ -75,5 +75,3 @@ marker: "[🇿](zotero://select/library/items/TG63UVE2)"
 >                   Mental programming in neural state space.
 >                   Nonhuman primates were trained to memorize and reorder spatial sequences while neurons in the frontal cortex were electrophysiologically recorded. Spatial locations in each rank were encoded in separate rank subspaces, depending on rule cues, and were swapped between the subspaces by using two extra temporary subspaces in parallel.
 
-[TLDR] Mental sorting was investigated using high-throughput electrophysiological recordings in the frontal cortex of macaque monkeys, which revealed that items at each ordinal rank in WM were encoded in separate rank-WM subspaces and then, depending on cues, were maintained or reordered between the subspaces, accompanied by two extra temporary subspaces in two operation steps.
-

@@ -61,5 +61,3 @@ marker: "[🇿](zotero://select/library/items/LMWWL83R)"
 >             9
 >             ). Finally, we highlight two aspects of the neural code for speech that are encouraging for speech BCIs: spatially intermixed tuning to speech articulators that makes accurate decoding possible from only a small region of cortex, and a detailed articulatory representation of phonemes that persists years after paralysis. These results show a feasible path forward for using intracortical speech BCIs to restore rapid communication to people with paralysis who can no longer speak.
 
-[TLDR] This work demonstrates the first speech-to-text BCI that records spiking activity from intracortical microelectrode arrays, and highlights two aspects of the neural code for speech that are encouraging for speech BCIs: spatially intermixed tuning to speech articulators that makes accurate decoding possible from only a small region of cortex, and a detailed articulatory representation of phonemes that persists years after paralysis.
-

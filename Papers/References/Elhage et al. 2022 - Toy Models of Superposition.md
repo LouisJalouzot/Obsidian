@@ -54,7 +54,3 @@ marker: "[🇿](zotero://select/library/items/2RBXG8SM)"
 > [!abstract] Abstract
 > Neural networks often pack many unrelated concepts into a single neuron - a puzzling phenomenon known as 'polysemanticity' which makes interpretability much more challenging. This paper provides a toy model where polysemanticity can be fully understood, arising as a result of models storing additional sparse features in "superposition." We demonstrate the existence of a phase change, a surprising connection to the geometry of uniform polytopes, and evidence of a link to adversarial examples. We also discuss potential implications for mechanistic interpretability.
 
-## Other
-
-Also available at https://transformer-circuits.pub/2022/toy_model/index.html
-

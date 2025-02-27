@@ -48,36 +48,3 @@ marker: "[🇿](zotero://select/library/items/QM69BUHQ)"
 > [!abstract] Abstract
 > In this study we compared how well DALL·E 2 and DALL·E 3 visually represented the meaning of linguistic prompts also given to young children in comprehension tests. Sentences representing fundamental components of grammatical knowledge were selected from assessment tests used with several hundred English-speaking children aged 2–7 years for whom we had collected original item-level data. DALL·E 2 was given these prompts five times to generate 20 cartoons per item, for 9 adult judges to score. Results revealed no conditions in which DALL·E 2-generated images that matched the semantic accuracy of children, even at the youngest age (2 years). DALL·E 2 failed to assign the appropriate roles in reversible forms; it fared poorly on negation despite an easier contrastive prompt than the children received; it often assigned the adjective to the wrong noun; it ignored implicit agents in passives. As a follow-up study, we queried DALL·E 3 to generate 8 images each of the same prompts. This demonstrated a consistent failure to compositionally represent syntactic structure (in particular for negation and reversible prepositional phrases), albeit with some improvements from DALL·E 2. This work points to a clear absence of compositional sentence representations for both DALL·E 2 and DALL·E 3.
 
-# A comparative investigation of compositional syntax and semantics in DALL·E and young children
-
-## ⚙️ Metadata
-
-- **Item Type:** journalArticle
-- **Author:** [[Elliot Murphy]], [[Jill de Villiers]], [[Sofia Lucero Morales]]
-- **Date Added:** 2/24/2025, 11:50:00 PM
-- **DOI:** [10.1016/j.ssaho.2025.101332](https://doi.org/10.1016/j.ssaho.2025.101332)
-- **Cite key:**
-- **Journal:** Social Sciences & Humanities Open
-- **Journal Tags:**
-- **Publication Date:** 2025-01-01
-- **Tags:** #Artificial intelligence, #Child language, #Compositionality, #DALL·E, #Syntax, #zotero
-- **PDF Attachments:** [Murphy et al. - 2025 - A comparative investigation of compositional syntax and semantics in DALL·E and young children.pdf](zotero://open-pdf/library/items/N5NKBHMS)
-
-## 📜 Abstract
-
-In this study we compared how well DALL·E 2 and DALL·E 3 visually represented the meaning of linguistic prompts also given to young children in comprehension tests. Sentences representing fundamental components of grammatical knowledge were selected from assessment tests used with several hundred English-speaking children aged 2–7 years for whom we had collected original item-level data. DALL·E 2 was given these prompts five times to generate 20 cartoons per item, for 9 adult judges to score. Results revealed no conditions in which DALL·E 2-generated images that matched the semantic accuracy of children, even at the youngest age (2 years). DALL·E 2 failed to assign the appropriate roles in reversible forms; it fared poorly on negation despite an easier contrastive prompt than the children received; it often assigned the adjective to the wrong noun; it ignored implicit agents in passives. As a follow-up study, we queried DALL·E 3 to generate 8 images each of the same prompts. This demonstrated a consistent failure to compositionally represent syntactic structure (in particular for negation and reversible prepositional phrases), albeit with some improvements from DALL·E 2. This work points to a clear absence of compositional sentence representations for both DALL·E 2 and DALL·E 3.
-
-## 📚 Zotero links
-
-- [Local library](zotero://select/items/1_QM69BUHQ)
-
-## 🤔 Personal Summary
-
-### 💭 Thought Inspiration
-
-> Tips: What aspects did you question, how do you think it can be improved?
-
-### 📜 Conclusion
-
-> Tips: What was done, what problem was solved, innovations and shortcomings?
-

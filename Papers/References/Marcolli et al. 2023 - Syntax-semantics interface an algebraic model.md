@@ -47,5 +47,3 @@ marker: "[🇿](zotero://select/library/items/QFCK3MLF)"
 > [!abstract] Abstract
 > We extend our formulation of Merge and Minimalism in terms of Hopf algebras to an algebraic model of a syntactic-semantic interface. We show that methods adopted in the formulation of renormalization (extraction of meaningful physical values) in theoretical physics are relevant to describe the extraction of meaning from syntactic expressions. We show how this formulation relates to computational models of semantics and we answer some recent controversies about implications for generative linguistics of the current functioning of large language models.
 
-Comment: LaTeX, 75 pages, 19 figures
-

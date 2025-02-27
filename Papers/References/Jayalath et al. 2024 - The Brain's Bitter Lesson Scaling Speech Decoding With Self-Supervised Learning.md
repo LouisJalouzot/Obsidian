@@ -43,11 +43,3 @@ marker: "[🇿](zotero://select/library/items/368ZRVIE)"
 > [!abstract] Abstract
 > The past few years have produced a series of spectacular advances in the decoding of speech from brain activity. The engine of these advances has been the acquisition of labelled data, with increasingly large datasets acquired from single subjects. However, participants exhibit individual differences, such as anatomy, and datasets use varied scanners and task designs. As a result, prior work has struggled to leverage data from multiple subjects, multiple datasets, multiple tasks, and unlabelled datasets. In turn, the field has not benefited from the rapidly growing number of open neural data repositories to exploit large-scale data and deep learning. This gap exists for all neural data, but especially for magnetoencephalography (MEG), where the scale of individual datasets has not yet caught up with other modalities. To address this, we develop a set of neuroscience-inspired self-supervised objectives, together with a neural architecture, for representation learning from heterogeneous and unlabelled neural recordings. Experimental results with MEG show that representations learned with these objectives scale with data, generalise across subjects, datasets, and tasks, outperform using the raw input representation, and even surpass comparable self-supervised approaches. In addition, we set new benchmarks for two foundational speech decoding tasks. Collectively, these methods now unlock the potential for training speech decoding models with orders of magnitude more existing data.
 
-## Other
-
-18 pages, 4 figures, 3 tables, under review
-
-## Other
-
-18 pages, 4 figures, 3 tables, under review
-

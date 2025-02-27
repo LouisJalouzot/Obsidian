@@ -44,5 +44,3 @@ marker: "[🇿](zotero://select/library/items/YR4RB5JT)"
 > Abstract
 >             Motivated by a Möbius invariant subdivision scheme for polygons, we study a curvature notion for discrete curves where the cross-ratio plays an important role in all our key definitions. Using a particular Möbius invariant point-insertion-rule, comparable to the classical four-point-scheme, we construct circles along discrete curves. Asymptotic analysis shows that these circles defined on a sampled curve converge to the smooth curvature circles as the sampling density increases. We express our discrete torsion for space curves, which is not a Möbius invariant notion, using the cross-ratio and show its asymptotic behavior in analogy to the curvature.
 
-[TLDR] This work expresses its discrete torsion for space curves, which is not a Möbius invariant notion, using the cross-ratio and shows its asymptotic behavior in analogy to the curvature.
-

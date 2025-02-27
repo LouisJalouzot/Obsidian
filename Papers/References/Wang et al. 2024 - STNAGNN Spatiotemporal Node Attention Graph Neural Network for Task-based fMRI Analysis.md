@@ -40,5 +40,3 @@ marker: "[🇿](zotero://select/library/items/CG9W22XK)"
 > [!abstract] Abstract
 > Task-based fMRI uses actions or stimuli to trigger task-specific brain responses and measures them using BOLD contrast. Despite the significant task-induced spatiotemporal brain activation fluctuations, most studies on task-based fMRI ignore the task context information aligned with fMRI and consider task-based fMRI a coherent sequence. In this paper, we show that using the task structures as data-driven guidance is effective for spatiotemporal analysis. We propose STNAGNN, a GNN-based spatiotemporal architecture, and validate its performance in an autism classification task. The trained model is also interpreted for identifying autism-related spatiotemporal brain biomarkers.
 
-[TLDR] Using the task structures as data-driven guidance is effective for spatiotemporal analysis and STNAGNN, a GNN-based spatiotemporal architecture, is proposed and validated and interpreted for identifying autism-related spatiotemporal brain biomarkers.
-

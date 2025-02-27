@@ -46,5 +46,3 @@ marker: "[🇿](zotero://select/library/items/P9XJJGR2)"
 > [!abstract] Abstract
 > Can we decipher speech content (“what” is being said) and speaker identity (“who” is saying it) from observations of brain activity of a listener? Here, we combine functional magnetic resonance imaging with a data-mining algorithm and retrieve what and whom a person is listening to from the neural fingerprints that speech and voice signals elicit in the listener's auditory cortex. These cortical fingerprints are spatially distributed and insensitive to acoustic variations of the input so as to permit the brain-based recognition of learned speech from unknown speakers and of learned voices from previously unheard utterances. Our findings unravel the detailed cortical layout and computational properties of the neural populations at the basis of human speech recognition and speaker identification.
 
-[TLDR] This work combines functional magnetic resonance imaging with a data-mining algorithm and retrieve what and whom a person is listening to from the neural fingerprints that speech and voice signals elicit in the listener's auditory cortex.
-

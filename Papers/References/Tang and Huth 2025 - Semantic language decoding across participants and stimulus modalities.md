@@ -41,18 +41,3 @@ marker: "[🇿](zotero://select/library/items/7WLWAA9L)"
 > [!abstract] Abstract
 > Semantic Scholar extracted view of "Semantic language decoding across participants and stimulus modalities" by Jerry Tang et al.
 
-# Annotations  
-(2/14/2025, 3:40:45 PM)
-
-“we tested whether language can be decoded from a goal participant without using any linguistic training data from that participant” (Tang and Huth, 2025, p. 2)
-
-“We trained semantic decoders on brain responses from separate reference participants and then used functional alignment to transfer the decoders to the goal participant” (Tang and Huth, 2025, p. 2)
-
-“Cross-participant decoder predictions were semantically related to the stimulus words, even when functional alignment was performed using movies with no linguistic content” (Tang and Huth, 2025, p. 2)
-
-“Finally, we tested whether cross-participant decoders could be robust to lesions” (Tang and Huth, 2025, p. 2)
-
-“by excluding brain regions from the goal participant prior to functional alignment” (Tang and Huth, 2025, p. 2)
-
-“found that cross-participant decoders do not depend on data from any single brain region” (Tang and Huth, 2025, p. 2)
-

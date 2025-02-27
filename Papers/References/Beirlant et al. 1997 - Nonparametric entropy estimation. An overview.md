@@ -35,5 +35,3 @@ marker: "[🇿](zotero://select/library/items/9X5WQRRZ)"
 > [!abstract] Abstract
 > We assume that H(f) is well-defined and is finite. The concept of differential entropy was introduced in Shannon’s original paper ([55]). Since then, entropy has been of great theoretical and applied interest. The basic properties ∗This research was supported by the Scientific Exchange Program between the Belgian Academy of Sciences and the Hungarian Academy of Sciences in the field of Mathematical Information Theory, and NATO Research Grant No. CRG 931030.
 
-[TLDR] This research assumes that H(f) is well-defined and is finite, and the concept of differential entropy was introduced in Shannon’s original paper ([55]).
-

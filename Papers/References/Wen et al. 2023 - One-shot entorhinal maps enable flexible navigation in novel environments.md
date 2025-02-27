@@ -50,5 +50,3 @@ marker: "[🇿](zotero://select/library/items/8GW4NVA6)"
 >             single
 >             exposure. The weak nature allows these rapidly formed maps to incur only small distortions between distances traveled in real versus neural space. Overall, such rapid low distortion mapping can then mediate accurate navigational behavior in rapidly changing environments through downstream plasticity.
 
-[TLDR] By recording over fifteen thousand grid cells in mice navigating virtual environments, it is found grid cell activity was weakly anchored to landmark inputs through a fixed circuit relationship and this fixed but weak anchoring of grid cells to landmarks endows the grid map with powerful computational properties.
-

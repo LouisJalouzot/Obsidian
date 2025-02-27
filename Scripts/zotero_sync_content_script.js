@@ -258,7 +258,7 @@ n += '> [!title] ' + data.title + '\n\n';
 
 // Add filename as link
 if (data.filename) {
-	n += `> [!example] File\n> [${data.filename}](${data.filename.replace(/ /g, '%20')}.pdf)\n\n`;
+	n += `> [!example] File\n> [${data.filename}](Papers/PDFs/${data.filename.replace(/ /g, '%20')}.pdf)\n\n`;
 }
 
 // Add abstract content
@@ -267,11 +267,11 @@ if (abstractNote) {
 }
 
 // Add notes content
-if (children) {
-  const notes = children.filter(c => c.itemType.toLowerCase() == 'note');
-  notes.forEach(c => {
-	n += c.note_markdown + '\n\n';
-  });
-}
+// if (children) {
+//   const notes = children.filter(c => c.itemType.toLowerCase() == 'note');
+//   notes.forEach(c => {
+// 	n += c.note_markdown + '\n\n';
+//   });
+// }
 
 return n;

@@ -67,5 +67,3 @@ marker: "[🇿](zotero://select/library/items/MTUT4MKY)"
 > Abstract
 >             The “Narratives” collection aggregates a variety of functional MRI datasets collected while human subjects listened to naturalistic spoken stories. The current release includes 345 subjects, 891 functional scans, and 27 diverse stories of varying duration totaling ~4.6 hours of unique stimuli (~43,000 words). This data collection is well-suited for naturalistic neuroimaging analysis, and is intended to serve as a benchmark for models of language and narrative comprehension. We provide standardized MRI data accompanied by rich metadata, preprocessed versions of the data ready for immediate use, and the spoken story stimuli with time-stamped phoneme- and word-level transcripts. All code and data are publicly available with full provenance in keeping with current best practices in transparent and reproducible neuroimaging.
 
-[TLDR] The “Narratives” collection aggregates a variety of functional MRI datasets collected while human subjects listened to naturalistic spoken stories to serve as a benchmark for models of language and narrative comprehension.
-
