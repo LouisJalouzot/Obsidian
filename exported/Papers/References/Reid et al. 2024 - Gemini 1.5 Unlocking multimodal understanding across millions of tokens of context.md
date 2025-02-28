@@ -1,0 +1,715 @@
+---
+year: 2024
+month: 3
+day: 8
+date: 8 March 2024
+authors:
+- Reid, Machel
+- Savinov, Nikolay
+- Teplyashin, Denis
+- Lepikhin, Dmitry
+- Lillicrap, T.
+- Alayrac, Jean-Baptiste
+- Soricut, Radu
+- Lazaridou, Angeliki
+- Firat, Orhan
+- Schrittwieser, Julian
+- Antonoglou, Ioannis
+- Anil, Rohan
+- Borgeaud, Sebastian
+- Dai, Andrew M.
+- Millican, Katie
+- Dyer, Ethan
+- Glaese, Mia
+- Sottiaux, Thibault
+- Lee, Ben-jamin
+- Viola, Fabio
+- Reynolds, Malcolm
+- Xu, Yuanzhong
+- Molloy, James
+- Chen, Jilin
+- Isard, M.
+- Barham, P.
+- Hennigan, Tom
+- McIlroy, Ross
+- Johnson, Melvin
+- Schalkwyk, J.
+- Collins, Eli
+- Rutherford, Eliza
+- Moreira, Erica
+- Ayoub, Kareem W.
+- Goel, Megha
+- Meyer, Clemens
+- Thornton, Gregory
+- Yang, Zhen
+- Michalewski, H.
+- Abbas, Zaheer
+- Schucher, Nathan
+- Anand, Ankesh
+- Ives, Richard
+- Keeling, James
+- Lenc, Karel
+- Haykal, Salem
+- Shakeri, Siamak
+- Shyam, Pranav
+- Chowdhery, Aakanksha
+- Ring, Roman
+- Spencer, Stephen
+- Sezener, Eren
+- Vilnis, Luke
+- Chang, Oscar
+- Morioka, Nobuyuki
+- Tucker, George
+- Zheng, Ce
+- Woodman, Oliver
+- Attaluri, Nithya
+- Kociský, Tomás
+- Eltyshev, Evgenii
+- Chen, Xi
+- Chung, Timothy
+- Selo, Vittorio
+- Brahma, Siddhartha
+- Georgiev, Petko
+- Slone, Ambrose
+- Zhu, Zhenkai
+- Lottes, James
+- Qiao, Siyuan
+- Caine, Ben
+- Riedel, Sebastian
+- Tomala, Alex
+- Chadwick, Martin
+- Love, J. Christopher
+- Choy, Peter
+- Mittal, Sid
+- Houlsby, N.
+- Tang, Yunhao
+- Lamm, Matthew
+- Bai, Libin
+- Zhang, Qiao
+- He, Luheng
+- Cheng, Yong
+- Humphreys, Peter
+- Li, Yujia
+- Brin, Sergey
+- Cassirer, Albin
+- Miao, Ying-Qi
+- Zilka, Lukás
+- Tobin, Taylor
+- Xu, Kelvin
+- Proleev, Lev
+- Sohn, Daniel
+- Magni, Alberto
+- Hendricks, Lisa Anne
+- Gao, Isabel
+- Ontan'on, Santiago
+- Bunyan, Oskar
+- Byrd, Nathan
+- Sharma, Abhanshu
+- Zhang, Biao
+- Pinto, Mario
+- Sinha, Rishika
+- Mehta, Harsh
+- Jia, Dawei
+- Caelles, Sergi
+- Webson, Albert
+- Morris, Alex
+- Roelofs, Becca
+- Ding, Yifan
+- Strudel, Robin
+- Xiong, Xuehan
+- Ritter, Marvin
+- Dehghani, Mostafa
+- Chaabouni, R.
+- Karmarkar, Abhijit
+- Lai, Guangda
+- Mentzer, Fabian
+- Xu, Bibo
+- Li, YaGuang
+- Zhang, Yujing
+- Paine, T.
+- Goldin, Alex
+- Neyshabur, Behnam
+- Baumli, Kate
+- Levskaya, Anselm
+- Laskin, Michael
+- Jia, Wenhao
+- Rae, Jack W.
+- Xiao, Kefan
+- He, Antoine
+- Giordano, Skye
+- Yagati, Lakshman
+- Lespiau, Jean-Baptiste
+- Natsev, Paul
+- Ganapathy, Sanjay
+- Liu, Fangyu
+- Martins, Danilo
+- Chen, Nanxin
+- Xu, Yunhan
+- Barnes, Megan
+- May, Rhys
+- Vezer, Arpi
+- Oh, Junhyuk
+- Franko, Ken
+- Bridgers, Sophie
+- Zhao, Ruizhe
+- Wu, Boxi
+- Mustafa, Basil
+- Sechrist, Sean
+- Parisotto, Emilio
+- Pillai, Thanumalayan Sankaranarayana
+- Larkin, Chris
+- Gu, Chenjie
+- Sorokin, Christina
+- Krikun, M.
+- Guseynov, Alexey
+- Landon, Jessica
+- Datta, Romina
+- Pritzel, A.
+- Thacker, Phoebe
+- Yang, Fan
+- Hui, Kevin
+- Hauth, A. E.
+- Yeh, Chih-Kuan
+- Barker, David
+- Mao-Jones, J.
+- Austin, Sophia
+- Sheahan, Hannah
+- Schuh, Parker
+- Svensson, James
+- Jain, Rohan
+- Ramasesh, V.
+- Briukhov, Anton
+- Chung, D.
+- Glehn, Tamara von
+- Butterfield, Christina
+- Jhakra, Priya
+- Wiethoff, Matt
+- Frye, Justin
+- Grimstad, Jordan
+- Changpinyo, Beer
+- Lan, Charline Le
+- Bortsova, Anna
+- Wu, Yonghui
+- Voigtlaender, P.
+- Sainath, Tara N.
+- Smith, Charlotte
+- Hawkins, Will
+- Cao, Kris
+- Besley, James
+- Srinivasan, S.
+- Omernick, Mark
+- Gaffney, Colin
+- Surita, G.
+- Burnell, Ryan
+- Damoc, Bogdan
+- Ahn, Junwhan
+- Brock, Andrew
+- Pajarskas, Mantas
+- Petrushkina, Anastasia
+- Noury, Seb
+- Blanco, Lorenzo
+- Swersky, Kevin
+- Ahuja, Arun
+- Avrahami, Thi
+- Misra, Vedant
+- Liedekerke, Raoul de
+- Iinuma, Mariko
+- Polozov, A.
+- York, Sarah
+- Driessche, George van den
+- Michel, Paul
+- Chiu, Justin
+- Blevins, Rory
+- Gleicher, Zach
+- Recasens, Adrià
+- Rrustemi, Alban
+- Gribovskaya, E.
+- Roy, Aurko
+- Gworek, Wiktor
+- Arnold, S'ebastien M. R.
+- Lee, Lisa
+- Lee-Thorp, James
+- Maggioni, M.
+- Piqueras, Enrique
+- Badola, Kartikeya
+- Vikram, S.
+- Gonzalez, Lucas
+- Baddepudi, Anirudh
+- Senter, Evan
+- Devlin, J.
+- Qin, James
+- Azzam, Michael
+- Trebacz, Maja
+- Polacek, M.
+- Krishnakumar, Kashyap
+- Chang, Shuo-yiin
+- Tung, Matthew
+- Penchev, Ivo
+- Joshi, Rishabh
+- Olszewska, Kate
+- Muir, Carrie
+- Wirth, Mateo
+- Hartman, Ale Jakse
+- Newlan, Joshua
+- Kashem, S.
+- Bolina, Vijay
+- Dabir, Elahe
+- Amersfoort, Joost R. van
+- Ahmed, Zafarali
+- Cobon-Kerr, James
+- Kamath, Aishwarya B.
+- Hrafnkelsson, A. M.
+- Hou, Le
+- Mackinnon, Ian
+- Frechette, Alexandre
+- Noland, Eric
+- Si, Xiance
+- Taropa, Emanuel
+- Li, Dong
+- Crone, Phil
+- Gulati, Anmol
+- Cevey, S'ebastien
+- Adler, Jonas
+- Ma, Ada
+- Silver, David
+- Tokumine, Simon
+- Powell, Richard
+- Lee, Stephan
+- Chang, Michael B.
+- Hassan, Samer
+- Mincu, Diana
+- Yang, Antoine
+- Levine, Nir
+- Brennan, Jenny
+- Wang, Mingqiu
+- Hodkinson, Sarah
+- Zhao, Jeffrey
+- Lipschultz, Josh
+- Pope, Aedan
+- Chang, Michael B.
+- Li, Cheng
+- Shafey, Laurent El
+- Paganini, M.
+- Douglas, Sholto
+- Bohnet, Bernd
+- Pardo, Fabio
+- Odoom, Seth
+- Rosca, Mihaela
+- Santos, Cicero Nogueira dos
+- Soparkar, Kedar
+- Guez, A.
+- Hudson, Tom
+- Hansen, Steven
+- Asawaroengchai, Chulayuth
+- Addanki, Ravichandra
+- Yu, Tianhe
+- Stokowiec, Wojciech
+- Khan, Mina
+- Gilmer, Justin
+- Lee, Jaehoon
+- Bostock, Carrie Grimes
+- Rong, Keran
+- Caton, Jonathan
+- Pejman, Pedram
+- Pavetic, Filip
+- Brown, Geoff
+- Sharma, Vivek
+- Luvci'c, Mario
+- Samuel, Rajkumar
+- Djolonga, Josip
+- Mandhane, Amol
+- Sjosund, Lars Lowe
+- Buchatskaya, Elena
+- White, Elspeth
+- Clay, Natalie
+- Jiang, Jiepu
+- Lim, Hyeontaek
+- Hemsley, Ross
+- Labanowski, Jane
+- Cao, Nicola De
+- Steiner, David
+- Hashemi, Sayed Hadi
+- Austin, Jacob
+- Gergely, Anita
+- Blyth, Tim
+- Stanton, Joe
+- Shivakumar, K.
+- Siddhant, Aditya
+- Andreassen, Anders
+- Araya, Carlos L.
+- Sethi, Nikhil
+- Shivanna, Rakesh
+- Hand, Steven
+- Bapna, Ankur
+- Khodaei, A.
+- Miech, Antoine
+- Tanzer, Garrett
+- Swing, Andy
+- Thakoor, S.
+- Pan, Zhufeng
+- Nado, Zachary
+- Winkler, Stephanie
+- Yu, Dian
+- Saleh, Mohammad
+- Maggiore, Lorenzo
+- Barr, Iain
+- Giang, Minh
+- Kagohara, Thais
+- Danihelka, Ivo
+- Marathe, Amit
+- Feinberg, Vladimir
+- Elhawaty, Mohamed
+- Ghelani, Nimesh
+- Horgan, Dan
+- Miller, Helen
+- Walker, Lexi
+- Tanburn, Richard
+- Tariq, Mukarram
+- Shrivastava, Disha
+- Xia, Fei
+- Chiu, Chung-Cheng
+- Ashwood, Zoe
+- Baatarsukh, Khuslen
+- Samangooei, Sina
+- Alcober, Fred
+- Stjerngren, Axel
+- Komarek, P.
+- Tsihlas, Katerina
+- Boral, Anudhyan
+- Comanescu, R.
+- Chen, Jeremy
+- Liu, Ruibo
+- Bloxwich, Dawn
+- Chen, Charlie
+- Sun, Yanhua
+- Feng, Fangxi-aoyu
+- Mauger, M.
+- Dotiwalla, Xerxes
+- Hellendoorn, V.
+- Sharman, Michael
+- Zheng, Ivy
+- Haridasan, Krishna
+- Barth-Maron, Gabriel
+- Swanson, Craig
+- Rogozi'nska, Dominika
+- Andreev, Alek
+- Rubenstein, P.
+- Sang, Ruoxin
+- Hurt, Dan
+- Elsayed, Gamaleldin
+- Wang, Ren-shen
+- Lacey, Dave
+- Ili'c, Anastasija
+- Zhao, Yao
+- Han, Woohyun
+- Aroyo, Lora
+- Iwuanyanwu, Chimezie
+- Nikolaev, Vitaly
+- Lakshminarayanan, Balaji
+- Jazayeri, Sadegh
+- Kaufman, Raphael Lopez
+- Varadarajan, Mani
+- Tekur, Chetan
+- Fritz, Doug
+- Khalman, Misha
+- Reitter, David
+- Dasgupta, Kingshuk
+- Sarcar, Shourya
+- Ornduff, T.
+- Snaider, Javier
+- Huot, Fantine
+- Jia, Johnson
+- Kemp, Rupert
+- Trdin, Nejc
+- Vijayakumar, Anitha
+- Kim, Lucy
+- Angermueller, Christof
+- Lao, Li
+- Liu, Tianqi
+- Zhang, Haibin
+- Engel, David
+- Greene, Somer
+- White, Anais
+- Austin, Jessica
+- Taylor, Lilly
+- Ashraf, Shereen
+- Liu, Dangyi
+- Georgaki, Maria
+- Cai, Irene
+- Kulizhskaya, Yana
+- Goenka, Sonam
+- Saeta, Brennan
+- Vodrahalli, Kiran
+- Frank, Christian
+- Cesare, D.
+- Robenek, Brona
+- Richardson, Harry
+- Alnahlawi, Mahmoud
+- Yew, Christopher
+- Ponnapalli, Priya
+- Tagliasacchi, M.
+- Korchemniy, Alex
+- Kim, Yelin
+- Li, Dinghua
+- Rosgen, B.
+- Levin, Kyle
+- Wiesner, Jeremy
+- Banzal, Praseem
+- Srinivasan, Praveen
+- Yu, Hongkun
+- Unlu, cCauglar
+- Reid, David
+- Tung, Zora
+- Finchelstein, D.
+- Kumar, Ravin
+- Elisseeff, A.
+- Huang, Jin
+- Zhang, Ming
+- Zhu, Rui
+- Aguilar, Ricardo
+- Gim'enez, Mai
+- Xia, Jiawei
+- Dousse, Olivier
+- Gierke, W.
+- Yeganeh, S.
+- Yates, Damion
+- Jalan, Komal
+- Li, Lu
+- Latorre-Chimoto, Eri
+- Nguyen, Duc Dung
+- Durden, Ken
+- Kallakuri, Praveen
+- Liu, Yaxin
+- Johnson, Matthew
+- Tsai, Tomy
+- Talbert, Alice
+- Liu, Jasmine
+- Neitz, Alexander
+- Elkind, C.
+- Selvi, Marco
+- Jasarevic, Mimi
+- Soares, Livio Baldini
+- Cui, Albert
+- Wang, Pidong
+- Wang, Alek Wenjiao
+- Ye, Xinyu
+- Kallarackal, Krystal
+- Loher, Lucia
+- Lam, Hoi
+- Broder, Josef
+- Holtmann-Rice, D.
+- Martin, Nina
+- Ramadhana, Bramandia
+- Toyama, Daniel
+- Shukla, Mrinal
+- Basu, Sujoy
+- Mohan, Abhi
+- Fernando, Nicholas
+- Fiedel, Noah
+- Paterson, Kim
+- Li, Hui
+- Garg, Ankush
+- Park, Jane
+- Choi, Donghyun
+- Wu, Diane
+- Singh, Sankalp
+- Zhang, Zhishuai
+- Globerson, Amir
+- Yu, Lily
+- Carpenter, John
+- Quitry, F. D. C.
+- Radebaugh, Carey
+- Lin, Chu-Cheng
+- Tudor, Alex
+- Shroff, Prakash
+- Garmon, Drew
+- Du, Dayou
+- Vats, Neera
+- Lu, Han
+- Iqbal, Shariq
+- Yakubovich, A.
+- Tripuraneni, Nilesh
+- Manyika, James
+- Qureshi, Ha-roon
+- Hua, Nan
+- Ngani, Christel
+- Raad, Maria Abi
+- Forbes, Hannah
+- Bulanova, Anna
+- Stanway, J.
+- Sundararajan, Mukund
+- Ungureanu, Victor
+- Bishop, Colton
+- Li, Yunjie
+- Venkatraman, Balaji
+- Li, Bo
+- Thornton, Chloe
+- Scellato, Salvatore
+- Gupta, Nishesh
+- Wang, Yicheng
+- Tenney, Ian
+- Wu, Xihui
+- Shenoy, Ashish
+- Carvajal, Gabriel
+- Wright, Diana Gage
+- Bariach, Ben
+- Xiao, Zhuyun
+- Hawkins, Peter
+- Dalmia, Sid
+- Farabet, Clément
+- Valenzuela, Pedro
+- Yuan, Quan
+- Welty, Christoper A.
+- Agarwal, Ananth
+- Chen, Mianna
+- Kim, Wooyeol
+- Hulse, Brice
+- Dukkipati, Nandita
+- Paszke, Adam
+- Bolt, Andrew
+- Davoodi, Elnaz
+- Choo, Kiam
+- Beattie, Jennifer
+- Prendki, J.
+- Vashisht, Harsha
+- Santamaria-Fernandez, Rebeca
+- Cobo, Luis C.
+- Wilkiewicz, Jarek
+- Madras, David
+- Elqursh, Ali
+- Uy, Grant
+- Ramirez, Kevin
+- Harvey, Matt
+- Liechty, T.
+- Zen, H.
+- Seibert, Jeff
+- Hu, Clara Huiyi
+- Khorlin, A. Ya
+- Le, Maigo
+- Aharoni, A.
+- Li, Megan
+- Wang, Lily
+- Kumar, Sandeep
+- Lince, Alejandro
+- Casagrande, Norman
+- Hoover, Jay
+- Badawy, Dalia El
+- Soergel, David
+- Vnukov, D.
+- Miecnikowski, Matt
+- Šimša, Jiří
+- Koop, Anna
+- Kumar, Praveen
+- Sellam, Thibault
+- Vlasic, Daniel
+- Daruki, Samira
+- Shabat, Nir
+- Zhang, John
+- Su, Guolong
+- Krishna, Kalpesh
+- Zhang, Jiageng
+- Liu, Jeremiah
+- Sun, Yi
+- Palmer, Evan
+- Ghaffarkhah, Alireza
+- Xiong, Xi
+- Cotruta, Victor
+- Fink, Michael
+- Dixon, Lucas
+- Sreevatsa, Ashwin
+- Goedeckemeyer, Adrian
+- Dimitriev, Alek
+- Jafari, Mohsen
+- Crocker, Remi
+- Fitzgerald, Nicholas
+- Kumar, Aviral
+- Ghemawat, Sanjay
+- Philips, Ivan
+- Liu, Frederick
+- Liang, Yannie
+- Sterneck, Rachel
+- Repina, Alena
+- Wu, Marcus
+- Knight, Laura
+- Georgiev, Marin
+- Lee, Hyo
+- Askham, Harry
+- Chakladar, A.
+- Louis, Annie
+- Crous, C.
+- Cate, Hardie
+- Petrova, Dessie
+- Quinn, Michael
+- Owusu-Afriyie, Denese
+- Singhal, Achintya
+- Wei, Nan
+- Kim, Solomon
+- Vincent, Damien
+- Nasr, Milad
+- Shumailov, Ilia
+- Choquette-Choo, Christopher A.
+- Tojo, Reiko
+- Lu, Shawn
+- Casas, Diego de Las
+- Cheng, Yuchung
+- Bolukbasi, Tolga
+- Lee, Kather-ine
+- Fatehi, S.
+- Ananthanarayanan, R.
+- Patel, Miteyan
+- Kaed, C.
+- Li, Jing
+- Sygnowski, Jakub
+- Belle, S.
+- Chen, Zhe
+- Konzelmann, Jaclyn
+- Põder, Siim
+- Garg, Roopal
+- Koverkathu, Vinod
+- Brown, Adam
+- Dyer, Chris
+- Liu, Rosanne
+- Nova, Azade
+- Xu, Jun
+- Bai, Junwen
+- Petrov, Slav
+- Hassabis, D.
+- Kavukcuoglu, K.
+- Dean, Jeffrey
+- Vinyals, O.
+- Chronopoulou, Alexandra
+generated: true
+key: ARUBNQA5
+version: 2047
+itemType: journalArticle
+title: 'Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context'
+publicationTitle: ArXiv
+shortTitle: Gemini 1.5
+url: https://www.semanticscholar.org/paper/Gemini-1.5%3A-Unlocking-multimodal-understanding-of-Reid-Savinov/c811bedbe8f4c21d0cba9f9175f7c2eb203284a7
+accessDate: 2025-02-20T22:13:22Z
+libraryCatalog: Semantic Scholar
+collections:
+- ERQKEKFA
+dateAdded: 2025-02-20T22:13:22Z
+dateModified: 2025-02-20T22:13:22Z
+super_collections:
+- ERQKEKFA
+filename: Reid et al. 2024 - Gemini 1.5 Unlocking multimodal understanding across millions of tokens of context
+marker: '[🇿](zotero://select/library/items/ARUBNQA5)'
+---
+
+
+ > 
+ > \[!warning\] Warning
+ > This note should not be modified as it can be overwritten by the plugin which generated it
+
+ > 
+ > \[!title\] Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context
+
+ > 
+ > \[!example\] File
+ > [Reid et al. 2024 - Gemini 1.5 Unlocking multimodal understanding across millions of tokens of context](Reid%20et%20al.%202024%20-%20Gemini%201.5%20Unlocking%20multimodal%20understanding%20across%20millions%20of%20tokens%20of%20context.pdf)
+
+ > 
+ > \[!abstract\] Abstract
+ > In this report, we introduce the Gemini 1.5 family of models, representing the next generation of highly compute-efficient multimodal models capable of recalling and reasoning over fine-grained information from millions of tokens of context, including multiple long documents and hours of video and audio. The family includes two new models: (1) an updated Gemini 1.5 Pro, which exceeds the February version on the great majority of capabilities and benchmarks; (2) Gemini 1.5 Flash, a more lightweight variant designed for efficiency with minimal regression in quality. Gemini 1.5 models achieve near-perfect recall on long-context retrieval tasks across modalities, improve the state-of-the-art in long-document QA, long-video QA and long-context ASR, and match or surpass Gemini 1.0 Ultra's state-of-the-art performance across a broad set of benchmarks. Studying the limits of Gemini 1.5's long-context ability, we find continued improvement in next-token prediction and near-perfect retrieval (>99%) up to at least 10M tokens, a generational leap over existing models such as Claude 3.0 (200k) and GPT-4 Turbo (128k). Finally, we highlight real-world use cases, such as Gemini 1.5 collaborating with professionals on completing their tasks achieving 26 to 75% time savings across 10 different job categories, as well as surprising new capabilities of large language models at the frontier; when given a grammar manual for Kalamang, a language with fewer than 200 speakers worldwide, the model learns to translate English to Kalamang at a similar level to a person who learned from the same content.

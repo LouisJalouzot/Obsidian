@@ -1,0 +1,238 @@
+---
+year: 2025
+month: 1
+day: 22
+date: 22 January 2025
+authors:
+- DeepSeek-AI,
+- Guo, Daya
+- Yang, Dejian
+- Zhang, Haowei
+- Song, Jun-Mei
+- Zhang, Ruoyu
+- Xu, R.
+- Zhu, Qihao
+- Ma, Shirong
+- Wang, Peiyi
+- Bi, Xiaoling
+- Zhang, Xiaokang
+- Yu, Xingkai
+- Wu, Yu
+- Wu, Z. F.
+- Gou, Zhibin
+- Shao, Zhihong
+- Li, Zhuoshu
+- Gao, Ziyi
+- Liu, A.
+- Xue, Bing
+- Wang, Bing-Li
+- Wu, Bochao
+- Feng, Bei
+- Lu, Chengda
+- Zhao, Chenggang
+- Deng, C.
+- Zhang, Chenyu
+- Ruan, C.
+- Dai, Damai
+- Chen, Deli
+- Ji, Dong-Li
+- Li, Erhang
+- Lin, Fangyun
+- Dai, Fucong
+- Luo, Fuli
+- Hao, Guangbo
+- Chen, Guanting
+- Li, Guowei
+- Zhang, H.
+- Bao, Han
+- Xu, Hanwei
+- Wang, Haocheng
+- Ding, Honghui
+- Xin, Huajian
+- Gao, Huazuo
+- Qu, Hui
+- Li, Hui
+- Guo, Jianzhong
+- Li, Jiashi
+- Wang, Jiawei
+- Chen, Jingchang
+- Yuan, Jingyang
+- Qiu, Junjie
+- Li, Junlong
+- Cai, J.
+- Ni, J.
+- Liang, Jian
+- Chen, Jin
+- Dong, Kai
+- Hu, Kai
+- Gao, Kaige
+- Guan, Kang
+- Huang, Kexin
+- Yu, K.
+- Wang, Lean
+- Zhang, Lecong
+- Zhao, Liang
+- Wang, Litong
+- Zhang, Liyue
+- Xu, Lei
+- Xia, Leyi
+- Zhang, Mingchuan
+- Zhang, Minghua
+- Tang, M.
+- Li, Meng
+- Wang, Miaojun
+- Li, Mingming
+- Tian, Ning
+- Huang, Panpan
+- Zhang, Peng
+- Wang, Qiancheng
+- Chen, Qinyu
+- Du, Qiushi
+- Ge, Ruiqi
+- Zhang, Ruisong
+- Pan, Ruizhe
+- Wang, Runji
+- Chen, R. J.
+- Jin, R. L.
+- Chen, Ruyi
+- Lu, Shanghao
+- Zhou, Shangyan
+- Chen, Shanhuang
+- Ye, Shengfeng
+- Wang, Shiyu
+- Yu, Shuiping
+- Zhou, Shunfeng
+- Pan, Shuting
+- Li, S. S.
+- Zhou, Shuang
+- Wu, Shao-Kang
+- Yun, Tao
+- Pei, Tian
+- Sun, T.
+- Wang, T.
+- Zeng, Wangding
+- Zhao, Wanjia
+- Liu, Wen
+- Liang, W.
+- Gao, W.
+- Yu, Wen-Xia
+- Zhang, Wentao
+- Xiao, W. L.
+- An, Wei
+- Liu, Xiaodong
+- Wang, Xiaohan
+- Chen, Xiaokang
+- Nie, X.
+- Cheng, Xin
+- Liu, Xin
+- Xie, Xin
+- Liu, Xingchao
+- Yang, Xinyu
+- Li, Xinyuan
+- Su, Xuecheng
+- Lin, Xuheng
+- Li, X. Q.
+- Jin, Xiangyu
+- Shen, Xi-Cheng
+- Chen, Xiaosha
+- Sun, Xiaowen
+- Wang, Xiaoxiang
+- Song, Xinnan
+- Zhou, Xinyi
+- Wang, Xianzu
+- Shan, Xinxia
+- Li, Y. K.
+- Wang, Y. Q.
+- Wei, Y. X.
+- Zhang, Yang
+- Xu, Yanhong
+- Li, Yao
+- Zhao, Yao
+- Sun, Yaofeng
+- Wang, Yaohui
+- Yu, Yi
+- Zhang, Yichao
+- Shi, Yifan
+- Xiong, Yi
+- He, Ying
+- Piao, Yishi
+- Wang, Yisong
+- Tan, Yixuan
+- Ma, Yiyang
+- Liu, Yiyuan
+- Guo, Yongqiang
+- Ou, Yuan
+- Wang, Yuduan
+- Gong, Yue
+- Zou, Yu-Jing
+- He, Yujia
+- Xiong, Yunfan
+- Luo, Yu-Wei
+- You, Yu-mei
+- Liu, Yuxuan
+- Zhou, Yuyang
+- Zhu, Y. X.
+- Huang, Yanping
+- Li, Yao
+- Zheng, Yi
+- Zhu, Yuchen
+- Ma, Yunxiang
+- Tang, Ying
+- Zha, Yukun
+- Yan, Yuting
+- Ren, Z.
+- Ren, Z.
+- Sha, Zhangli
+- Fu, Zhe
+- Xu, Zhean
+- Xie, Zhenda
+- Zhang, Zhen-guo
+- Hao, Zhewen
+- Ma, Zhicheng
+- Yan, Zhigang
+- Wu, Zhiyu
+- Gu, Zihui
+- Zhu, Zijia
+- Liu, Zijun
+- Li, Zi-An
+- Xie, Ziwei
+- Song, Ziyang
+- Pan, Zizheng
+- Huang, Zhen
+- Xu, Zhipeng
+- Zhang, Zhongyu
+- Zhang, Zhen
+generated: true
+key: 84AQA88U
+version: 2268
+itemType: conferencePaper
+title: 'DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning'
+shortTitle: DeepSeek-R1
+url: https://www.semanticscholar.org/paper/DeepSeek-R1%3A-Incentivizing-Reasoning-Capability-in-DeepSeek-AI-Guo/34471a2fa18ea22efad5287cf4aeb18542c98a9b
+accessDate: 2025-02-11T03:59:18Z
+libraryCatalog: Semantic Scholar
+collections:
+- ERQKEKFA
+dateAdded: 2025-02-11T03:59:18Z
+dateModified: 2025-02-11T04:07:43Z
+super_collections:
+- ERQKEKFA
+filename: DeepSeek-AI et al. 2025 - DeepSeek-R1 Incentivizing Reasoning Capability in LLMs via Reinforcement Learning
+marker: '[🇿](zotero://select/library/items/84AQA88U)'
+---
+
+
+ > 
+ > \[!warning\] Warning
+ > This note should not be modified as it can be overwritten by the plugin which generated it
+
+ > 
+ > \[!title\] DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning
+
+ > 
+ > \[!example\] File
+ > [DeepSeek-AI et al. 2025 - DeepSeek-R1 Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](DeepSeek-AI%20et%20al.%202025%20-%20DeepSeek-R1%20Incentivizing%20Reasoning%20Capability%20in%20LLMs%20via%20Reinforcement%20Learning.pdf)
+
+ > 
+ > \[!abstract\] Abstract
+ > We introduce our first-generation reasoning models, DeepSeek-R1-Zero and DeepSeek-R1. DeepSeek-R1-Zero, a model trained via large-scale reinforcement learning (RL) without supervised fine-tuning (SFT) as a preliminary step, demonstrates remarkable reasoning capabilities. Through RL, DeepSeek-R1-Zero naturally emerges with numerous powerful and intriguing reasoning behaviors. However, it encounters challenges such as poor readability, and language mixing. To address these issues and further enhance reasoning performance, we introduce DeepSeek-R1, which incorporates multi-stage training and cold-start data before RL. DeepSeek-R1 achieves performance comparable to OpenAI-o1-1217 on reasoning tasks. To support the research community, we open-source DeepSeek-R1-Zero, DeepSeek-R1, and six dense models (1.5B, 7B, 8B, 14B, 32B, 70B) distilled from DeepSeek-R1 based on Qwen and Llama.
