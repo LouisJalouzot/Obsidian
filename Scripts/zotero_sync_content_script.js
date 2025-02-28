@@ -251,14 +251,14 @@ for (const [key, value] of Object.entries(data)) {
 // End frontmatter
 n += '---\n\n';
 
-n += '>[!warning] Warning\n> This note should not be modified as it can be overwritten by the plugin which generated it\n\n';
+n += '>[!warning] Warning\n> This note should not be modified as it can be overwritten by the plugin which generated it.\n\n';
 
 // Add title as heading
 n += '> [!title] ' + data.title + '\n\n';
 
 // Add filename as link
 if (data.filename) {
-	n += `> [!example] File\n> [${data.filename}](Papers/PDFs/${data.filename.replace(/ /g, '%20')}.pdf)\n\n`;
+	n += `> [!example] File\n> [${data.filename}](/Papers/PDFs/${data.filename.replace(/ /g, '%20')}.pdf)\n\n`;
 }
 
 // Add abstract content
